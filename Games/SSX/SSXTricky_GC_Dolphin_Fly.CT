@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Player"</Description>
+      <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <Address/>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1542</ID>
+          <Description>"X"</Description>
+          <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1541</ID>
+              <Description>"Player X"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806C1B38</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>38</Key>
+                  </Keys>
+                  <Value>500</Value>
+                  <ID>0</ID>
+                  <ActivateSound>Activate</ActivateSound>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>40</Key>
+                  </Keys>
+                  <Value>500</Value>
+                  <ID>1</ID>
+                  <ActivateSound>Deactivate</ActivateSound>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1538</ID>
+          <Description>"Y"</Description>
+          <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1113</ID>
+              <Description>"Player Y"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1006C1B3C</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>39</Key>
+                  </Keys>
+                  <Value>500</Value>
+                  <ID>0</ID>
+                  <ActivateSound>Activate</ActivateSound>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>37</Key>
+                  </Keys>
+                  <Value>500</Value>
+                  <ID>1</ID>
+                  <ActivateSound>Deactivate</ActivateSound>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1179</ID>
+              <Description>"Player Y Fall 1"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1006D37B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>408</ID>
+              <Description>"Player Y"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>12FB1B3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>409</ID>
+              <Description>"Player Y"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>12FB1CC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1466</ID>
+              <Description>"Player Y"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1406C1B3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>760</ID>
+              <Description>"Player Y"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806C1B3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1540</ID>
+              <Description>"Player Y"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806C1B3C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1536</ID>
+          <Description>"Z"</Description>
+          <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>330</ID>
+              <Description>"Player Z"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1406C1B40</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>97</Key>
+                  </Keys>
+                  <Value>500</Value>
+                  <ID>0</ID>
+                  <ActivateSound>Activate</ActivateSound>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>96</Key>
+                  </Keys>
+                  <Value>500</Value>
+                  <ID>1</ID>
+                  <ActivateSound>Deactivate</ActivateSound>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>258</ID>
+              <Description>"Player Z"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806C1B40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>294</ID>
+              <Description>"Player Z"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1006C1B40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>192</ID>
+              <Description>"Player Z"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>12FB1B40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>222</ID>
+              <Description>"Player Z"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>12FB1B40</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1534</ID>
+      <Description>"Camera"</Description>
+      <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1537</ID>
+          <Description>"Y"</Description>
+          <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1178</ID>
+              <Description>"Player Y Menu Camera"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1006D3760</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1180</ID>
+              <Description>"Camera Y ?"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1006D3800</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>475</ID>
+              <Description>"Camera Y"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>12FC3800</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1532</ID>
+              <Description>"Camera Y (Fall 2)"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1406D37B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1533</ID>
+              <Description>"Camera Y 1"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1406D3800</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>827</ID>
+              <Description>"Camera Y"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806D3800</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1539</ID>
+          <Description>"Z"</Description>
+          <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>262</ID>
+              <Description>"Camera Z"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806D3804</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>261</ID>
+              <Description>"Camera Z (Fall Cam)"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806D37B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>334</ID>
+              <Description>"Camera Z"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1406D3804</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>226</ID>
+              <Description>"Camera Z"</Description>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>12FC3804</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>298</ID>
+              <Description>"Camera Z"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>1006D3804</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1628</ID>
+          <Description>"X"</Description>
+          <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1632</ID>
+          <Description>"Camera Rot"</Description>
+          <Options moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1629</ID>
+              <Description>"Cam Pitch"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806D376C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1630</ID>
+              <Description>"Cam Yaw"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806D3768</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1631</ID>
+              <Description>"Cam Roll"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Custom</VariableType>
+              <CustomType>Float Big Endian</CustomType>
+              <Address>806D3770</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1625</ID>
+      <Description>"Head_X"</Description>
+      <VariableType>Custom</VariableType>
+      <CustomType>Float Big Endian</CustomType>
+      <Address>1006C62B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1626</ID>
+      <Description>"Head_Z"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Custom</VariableType>
+      <CustomType>Float Big Endian</CustomType>
+      <Address>1006C627C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1627</ID>
+      <Description>"Head_Y"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Custom</VariableType>
+      <CustomType>Float Big Endian</CustomType>
+      <Address>1006C6280</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
