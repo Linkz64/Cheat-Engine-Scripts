@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<!-- Tested on PCSX2 1.6.0 -->
+
 <!-- Player controlled with Ctrl + up down left right numpad0 numpad1 -->
-<!-- Camera controlled with Shift + W A S D Q E -->
+<!-- Camera controlled with Shift + up down left right W A S D Q E -->
 
 <!-- Render distance may be different per map, search for large float values nearby in memory view to find them. Lens flare properties are also in the same region. -->
 
