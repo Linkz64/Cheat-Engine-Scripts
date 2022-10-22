@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Player controlled with Ctrl + up down left right numpad0 numpad1 -->
+<!-- Camera controlled with Shift + W A S D Q E -->
+
+<!-- Render distance may be different per map, search for large float values nearby in memory view to find them. Lens flare properties are also in the same region. -->
+
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>219</ID>
+      <Description>"Showoff &amp; Practice - Freeride"</Description>
+      <Options moRecursiveSetValue="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1037</ID>
+          <Description>"Player"</Description>
+          <Options moRecursiveSetValue="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>435</ID>
+              <Description>"Player X"</Description>
+              <LastState Value="6439.29248" RealAddress="20AF7700"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>0000FF</Color>
+              <VariableType>Float</VariableType>
+              <Address>20AF7700</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>39</Key>
+                  </Keys>
+                  <Value>250</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>37</Key>
+                    <Key>17</Key>
+                  </Keys>
+                  <Value>250</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>434</ID>
+              <Description>"Player Y"</Description>
+              <LastState Value="-8404.05957" RealAddress="20AF7704"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>40FF00</Color>
+              <VariableType>Float</VariableType>
+              <Address>20AF7704</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>38</Key>
+                    <Key>17</Key>
+                  </Keys>
+                  <Value>250</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>40</Key>
+                    <Key>17</Key>
+                  </Keys>
+                  <Value>250</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>433</ID>
+              <Description>"Player Z"</Description>
+              <LastState Value="993.2948608" RealAddress="20AF7708"/>
+              <Color>FF8000</Color>
+              <VariableType>Float</VariableType>
+              <Address>20AF7708</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>97</Key>
+                    <Key>17</Key>
+                  </Keys>
+                  <Value>250</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>96</Key>
+                    <Key>17</Key>
+                  </Keys>
+                  <Value>250</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1036</ID>
+          <Description>"Camera"</Description>
+          <Options moRecursiveSetValue="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1044</ID>
+              <Description>"Location"</Description>
+              <Options moRecursiveSetValue="1" moManualExpandCollapse="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1039</ID>
+                  <Description>"Camera X"</Description>
+                  <LastState Value="6740.917969" RealAddress="207FEB5C"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0000FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>207FEB5C</Address>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Increase Value</Action>
+                      <Keys>
+                        <Key>16</Key>
+                        <Key>39</Key>
+                      </Keys>
+                      <Value>25</Value>
+                      <ID>0</ID>
+                    </Hotkey>
+                    <Hotkey>
+                      <Action>Decrease Value</Action>
+                      <Keys>
+                        <Key>16</Key>
+                        <Key>37</Key>
+                      </Keys>
+                      <Value>25</Value>
+                      <ID>1</ID>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1038</ID>
+                  <Description>"Camera Y"</Description>
+                  <LastState Value="-8402.327148" RealAddress="207FEB60"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>00FF00</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>207FEB60</Address>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Increase Value</Action>
+                      <Keys>
+                        <Key>16</Key>
+                        <Key>38</Key>
+                      </Keys>
+                      <Value>25</Value>
+                      <ID>0</ID>
+                    </Hotkey>
+                    <Hotkey>
+                      <Action>Decrease Value</Action>
+                      <Keys>
+                        <Key>16</Key>
+                        <Key>40</Key>
+                      </Keys>
+                      <Value>25</Value>
+                      <ID>1</ID>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1035</ID>
+                  <Description>"Camera Z"</Description>
+                  <LastState Value="1187.842773" RealAddress="207FEB64"/>
+                  <Color>FF8000</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>207FEB64</Address>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Increase Value</Action>
+                      <Keys>
+                        <Key>16</Key>
+                        <Key>69</Key>
+                      </Keys>
+                      <Value>25</Value>
+                      <ID>1</ID>
+                    </Hotkey>
+                    <Hotkey>
+                      <Action>Decrease Value</Action>
+                      <Keys>
+                        <Key>16</Key>
+                        <Key>81</Key>
+                      </Keys>
+                      <Value>25</Value>
+                      <ID>0</ID>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1045</ID>
+              <Description>"Rotation"</Description>
+              <Options moRecursiveSetValue="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1047</ID>
+                  <Description>"Rotation 1"</Description>
+                  <Options moRecursiveSetValue="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1041</ID>
+                      <Description>"Z_Yaw"</Description>
+                      <LastState Value="3.12840271" RealAddress="207FEAB8"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>207FEAB8</Address>
+                      <Hotkeys>
+                        <Hotkey>
+                          <Action>Decrease Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>68</Key>
+                          </Keys>
+                          <Value>0.19634954084</Value>
+                          <ID>0</ID>
+                        </Hotkey>
+                        <Hotkey>
+                          <Action>Increase Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>65</Key>
+                          </Keys>
+                          <Value>0.19634954084</Value>
+                          <ID>1</ID>
+                        </Hotkey>
+                      </Hotkeys>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1042</ID>
+                      <Description>"Y_Pitch"</Description>
+                      <LastState Value="-0.3176332414" RealAddress="207FEABC"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>207FEABC</Address>
+                      <Hotkeys>
+                        <Hotkey>
+                          <Action>Increase Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>87</Key>
+                          </Keys>
+                          <Value>0.19634954084</Value>
+                          <ID>0</ID>
+                        </Hotkey>
+                        <Hotkey>
+                          <Action>Decrease Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>83</Key>
+                          </Keys>
+                          <Value>0.19634954084</Value>
+                          <ID>1</ID>
+                        </Hotkey>
+                      </Hotkeys>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1043</ID>
+                      <Description>"X_Roll"</Description>
+                      <LastState Value="-0.00008630752563" RealAddress="207FEAC0"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>207FEAC0</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1046</ID>
+                  <Description>"Rotation 2"</Description>
+                  <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1048</ID>
+                      <Description>"Z_Yaw"</Description>
+                      <LastState Value="3.12840271" RealAddress="207FEB10"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>207FEB10</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1049</ID>
+                      <Description>"Y_Pich"</Description>
+                      <LastState Value="-0.3176331818" RealAddress="207FEB14"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>207FEB14</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1050</ID>
+                      <Description>"X_Roll"</Description>
+                      <LastState Value="-0.00008630752563" RealAddress="207FEB18"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>207FEB18</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1051</ID>
+              <Description>"Extra"</Description>
+              <Options moAlwaysHideChildren="1" moManualExpandCollapse="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1052</ID>
+                  <Description>"FOV_1"</Description>
+                  <LastState Value="1.649999976" RealAddress="207FEAC4"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>207FEAC4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1053</ID>
+                  <Description>"FOV_2"</Description>
+                  <LastState Value="1.649999976" RealAddress="207FEB1C"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>207FEB1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1054</ID>
+                  <Description>"Clip_Near"</Description>
+                  <LastState Value="15" RealAddress="207FEAC8"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>207FEAC8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1252</ID>
+                  <Description>"Clip Far + Render Distance"</Description>
+                  <LastState Value="30000" RealAddress="207FCCA0"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>207FCCA0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1055</ID>
+                  <Description>"X_Res/Offs"</Description>
+                  <LastState Value="512" RealAddress="204117A0"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>204117A0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1056</ID>
+                  <Description>"Y_Res/Offs"</Description>
+                  <LastState Value="448" RealAddress="204117A4"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>204117A4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1062</ID>
+                  <Description>"No description"</Description>
+                  <LastState Value="640" RealAddress="204117C0"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>204117C0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1063</ID>
+                  <Description>"No description"</Description>
+                  <LastState Value="480" RealAddress="204117C4"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>204117C4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1058</ID>
+                  <Description>"Clip_Far"</Description>
+                  <LastState Value="1000" RealAddress="204117AC"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>204117AC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1066</ID>
+                  <Description>"Clip Far?"</Description>
+                  <LastState Value="1000" RealAddress="204117E0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>204117E0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1067</ID>
+                  <Description>"Clip Far??"</Description>
+                  <LastState Value="1000" RealAddress="20411814"/>
+                  <VariableType>Float</VariableType>
+                  <Address>20411814</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1236</ID>
+      <Description>"Race"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1237</ID>
+          <Description>"Player"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1239</ID>
+              <Description>"X"</Description>
+              <LastState Value="0" RealAddress="20E82D40"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>20E82D40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1240</ID>
+              <Description>"Y"</Description>
+              <LastState Value="575.9033203" RealAddress="20E82D44"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>20E82D44</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1235</ID>
+              <Description>"Z"</Description>
+              <LastState Value="-890.9912109" RealAddress="20E82D48"/>
+              <VariableType>Float</VariableType>
+              <Address>20E82D48</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1238</ID>
+          <Description>"Camera"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1228</ID>
+              <Description>"Z"</Description>
+              <LastState Value="-6.260133774E18" RealAddress="207FF664"/>
+              <VariableType>Float</VariableType>
+              <Address>207FF664</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1249</ID>
+              <Description>"No description"</Description>
+              <LastState Value="1.96181785E-44" RealAddress="207FF5B8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>207FF5B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1250</ID>
+              <Description>"No description"</Description>
+              <LastState Value="2.101947696E-44" RealAddress="207FF5BC"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>207FF5BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1251</ID>
+              <Description>"No description"</Description>
+              <LastState Value="2.242077543E-44" RealAddress="207FF5C0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>207FF5C0</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1241</ID>
+      <Description>"Timer"</Description>
+      <LastState Value="0" RealAddress="207DB2D4"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>207DB2D4</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
