@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Player X or Y"</Description>
+      <LastState Value="72750" RealAddress="21457074"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>21457074</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>39</Key>
+          </Keys>
+          <Value>125</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>37</Key>
+          </Keys>
+          <Value>125</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Player Y or X"</Description>
+      <LastState Value="-113690" RealAddress="21457070"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>21457070</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>38</Key>
+          </Keys>
+          <Value>125</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>40</Key>
+          </Keys>
+          <Value>125</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Player Z"</Description>
+      <LastState Value="-228282" RealAddress="21457078"/>
+      <VariableType>Float</VariableType>
+      <Address>21457078</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>97</Key>
+          </Keys>
+          <Value>125</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>96</Key>
+          </Keys>
+          <Value>125</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>877</ID>
+      <Description>"Player XX or XX"</Description>
+      <LastState Value="0" RealAddress="214567C4"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>214567C4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>878</ID>
+      <Description>"Player YY or YY"</Description>
+      <LastState Value="0" RealAddress="214567C0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>214567C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>869</ID>
+      <Description>"Player ZZ"</Description>
+      <LastState Value="0" RealAddress="214567C8"/>
+      <VariableType>Float</VariableType>
+      <Address>214567C8</Address>
+    </CheatEntry>
+  </CheatEntries>
+</CheatTable>
