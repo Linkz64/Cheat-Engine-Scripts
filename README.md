@@ -4,16 +4,16 @@
 ## How to Download and Install
 - Click on one of the links below
 - Right click the page
-- Click "Save as" or "Save Page As"
+- Click `Save as` or `Save Page As`
 
-To install script/form (.lua/.frm)
+Install Autorun Script:
 - Put it in the Cheat Engine autorun folder<br>
-  Don't add .txt at the end!
+  *Don't add .txt at the end!*
 
-To install cheat table (.ct)
-- In Cheat Engine click File > Load
+Install Cheat Table:
+- In Cheat Engine click `File` > `Load`
 
-## Scripts
+## Autorun Scripts
 **[EmuRPM]** - [emurpm.lua](https://raw.githubusercontent.com/Linkz64/Cheat-Engine-Scripts/refs/heads/main/Emulator/EmuRPM/emurpm.lua) + [emurpm.frm](https://raw.githubusercontent.com/Linkz64/Cheat-Engine-Scripts/refs/heads/main/Emulator/EmuRPM/emurpm.frm)<br>
 *Requires both the .lua and .frm files!<br>
 Allows setting the base address pointer so that 00000000 becomes the start of the console memory.<br>
