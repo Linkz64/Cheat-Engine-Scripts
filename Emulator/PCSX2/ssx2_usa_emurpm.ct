@@ -1,0 +1,4296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>925</ID>
+      <Description>"💬 Notes"</Description>
+      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>926</ID>
+          <Description>"💬 This is a note/comment template. Keep this for copy paste."</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>C0C0C0</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>929</ID>
+          <Description>"💬 Formatting:"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>C0C0C0</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>927</ID>
+          <Description>"💬    Entry[#5] The number of entries in an array"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>C0C0C0</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>928</ID>
+          <Description>"💬    Entry[5] The index of an entry"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>C0C0C0</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>930</ID>
+          <Description>"💬    Pink = Where the pointer is stored. Like doing &amp;MyThing in C."</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>C080FF</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>531</ID>
+      <Description>"Codespace"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>588A57</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>532</ID>
+          <Description>"AnimSpeed (Half a float)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00117180</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>794</ID>
+          <Description>"GariSkyColor.r"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>0000FF</Color>
+          <VariableType>Byte</VariableType>
+          <Address>00258b30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>795</ID>
+          <Description>"GariSkyColor.g"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>00FF00</Color>
+          <VariableType>Byte</VariableType>
+          <Address>00258ba4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>796</ID>
+          <Description>"GariSkyColor.b"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>FF8000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>00258bac</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Globals"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>CD8C4B</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"Cheats"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>42C0FD</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>13</ID>
+              <Description>"CheatUnlockEverything"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>003352A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>14</ID>
+              <Description>"CheatRunning"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>003352A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>15</ID>
+              <Description>"CheatUnknown"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>003352A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>16</ID>
+              <Description>"CheatMaxCharStats"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>003352AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>17</ID>
+              <Description>"CheatMallora"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>003352B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>18</ID>
+              <Description>"CheatAggression?"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>003352B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>19</ID>
+              <Description>"CheatMixMasterMike"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>003352B8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>374</ID>
+          <Description>"CrowdFrame0TextureIndex"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>0031D4B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>375</ID>
+          <Description>"CrowdFrame1TextureIndex"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>0031D500</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>903</ID>
+          <Description>"BoostMeterRingsDefaults[#14]"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>00338008</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>904</ID>
+              <Description>"GrayDefault"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00338008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>905</ID>
+              <Description>"ColoredDefault"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>0033800C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>906</ID>
+              <Description>"TextureIndex"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00338010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>907</ID>
+              <Description>"OffsetX"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00338014</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>908</ID>
+              <Description>"OffsetY"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>00338018</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>334</ID>
+          <Description>"Save"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="0032C9C0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <GroupHeader>1</GroupHeader>
+          <Address>0032C9C0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>335</ID>
+              <Description>"UserName0"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>0032C9C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>363</ID>
+              <Description>"UserName1"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>0032C9CA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>364</ID>
+              <Description>"UserName2"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>0032C9D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>365</ID>
+              <Description>"UserName3"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>0032C9DE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>336</ID>
+              <Description>"SoundVolMaster"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>32c9e8 </Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>337</ID>
+              <Description>"SoundVolMusic"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>0032C9EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>338</ID>
+              <Description>"SoundVolMCAndNarrSpeech"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>0032C9F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>339</ID>
+              <Description>"SoundVolUnused"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>0032C9F4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>340</ID>
+              <Description>"SoundVolCharacterSpeech"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>0032C9F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>341</ID>
+              <Description>"SoundVolSFX"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>0032C9FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>342</ID>
+              <Description>"SoundSpeakerMode"</Description>
+              <DropDownList DisplayValueAsItem="1">0:Mono
+1:Stereo
+2:Surround
+3:DTS
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>343</ID>
+              <Description>"SoundToggleUBERTricky"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA04</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>344</ID>
+              <Description>"ControllerPlayer1Vibration"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>345</ID>
+              <Description>"ControllerPlayer2Vibration"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA0C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>346</ID>
+              <Description>"UISpeedUnits"</Description>
+              <DropDownList DisplayValueAsItem="1">0:KMH
+1:MPH
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>347</ID>
+              <Description>"ScreenMode"</Description>
+              <DropDownList DisplayValueAsItem="1">0:4:3
+1:16:9
+2:Animorphic
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>348</ID>
+              <Description>"SplitScreenMode"</Description>
+              <DropDownList DisplayValueAsItem="1">0:Vertical
+1:Horizontal
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>349</ID>
+              <Description>"ControllerPlayer1Config "</Description>
+              <DropDownList DisplayValueAsItem="1">0:Default
+1:Pro
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA1C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>350</ID>
+              <Description>"ControllerPlayer2Config "</Description>
+              <DropDownList DisplayValueAsItem="1">0:Default
+1:Pro
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>351</ID>
+              <Description>"Unused0"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA24</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>352</ID>
+              <Description>"Unused1"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>353</ID>
+              <Description>"Unused2"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA2C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>354</ID>
+              <Description>"Unused3"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA30</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>355</ID>
+              <Description>"AutoLoadOptions"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA34</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>356</ID>
+              <Description>"Player1CameraMode"</Description>
+              <DropDownList DisplayValueAsItem="1">0:Near Cam     (chase board)
+1:Medium Cam   (chase near)
+2:Far Cam      (chase far)
+3:Overhead Cam (chase over)
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>357</ID>
+              <Description>"Player2CameraMode "</Description>
+              <DropDownList DisplayValueAsItem="1">0:Near Cam     (chase board)
+1:Medium Cam   (chase near)
+2:Far Cam      (chase far)
+3:Overhead Cam (chase over)
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>358</ID>
+              <Description>"HUDDetail"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>359</ID>
+              <Description>"ScreenBrightness"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>0032CA44</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>360</ID>
+              <Description>"MaxRiders"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>361</ID>
+              <Description>"ReplayMode"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA4C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>362</ID>
+              <Description>"LangLoc"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032CA50</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"NumRiders"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DB6C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"World"</Description>
+          <DropDownList DisplayValueAsItem="1">0:gari
+1:snow
+2:elysium
+3:mesa
+4:merquer
+5:aloha
+6:pipe
+7:untrack
+8:megaple
+9:bigair
+10:trick
+11:alaska
+12:ssxfe
+</DropDownList>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DE88</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"GameMode"</Description>
+          <DropDownList DisplayValueAsItem="1">0:knockdown
+1:freeride
+2:race
+3:showoff
+4:world_circuit_race
+5:world_circuit_showoff
+6:trick_tutorial
+7:time_challenge
+8:demo
+9:test
+</DropDownList>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DE8C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Unk"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DE90</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"Unk"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DE94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>924</ID>
+          <Description>"FenceBendTable[#8]"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>0031d350</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"Unk"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DE98</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>854</ID>
+          <Description>"Puncture"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032b390</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>855</ID>
+              <Description>"RiderPuddingPointer"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>C080FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+ 3214</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>856</ID>
+                  <Description>"RiderPudding"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFFFFF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 00</Address>
+                  <Offsets>
+                    <Offset>0</Offset>
+                  </Offsets>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>857</ID>
+                      <Description>"NumRiders"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"RaceHeat"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DE9C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"RaceDifficulty"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DEA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"Unk"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0032DEA8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"Player1CharacterSetup"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="0032E484"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <GroupHeader>1</GroupHeader>
+          <Address>0032E484</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>20</ID>
+              <Description>"Unk0"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E484</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>21</ID>
+              <Description>"Unk1"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E488</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>22</ID>
+              <Description>"ControllerIndex"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E48C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"Unk2"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E490</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"Unk3"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E494</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"SaveDataPointer"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>C080FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E498</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>791</ID>
+                  <Description>"SaveDataPointer"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>String</VariableType>
+                  <Length>8</Length>
+                  <Unicode>0</Unicode>
+                  <CodePage>0</CodePage>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>0032E498</Address>
+                  <Offsets>
+                    <Offset>0</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>27</ID>
+              <Description>"Unk4"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E49C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"CharacterChoicePointer"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>C080FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"UnkPointer1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>10</ID>
+              <Description>"CharacterChoice"</Description>
+              <DropDownList DisplayValueAsItem="1">0:Eddie
+1:Kaori
+2:Luther
+3:Mac
+4:Moby
+5:Zoe
+6:JP
+7:Elise
+8:Psymon
+9:Seeiah
+10:Brodi
+11:Marisol
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>30</ID>
+              <Description>"Unk5"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>31</ID>
+              <Description>"CharacterChoiceUnk"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>32</ID>
+              <Description>"OutfitChoice"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>12</ID>
+              <Description>"BoardChoice"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>34</ID>
+              <Description>"Unk6"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>35</ID>
+              <Description>"Unk7"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>36</ID>
+              <Description>"Unk8"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4C4</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>103</ID>
+          <Description>"Player2CharacterSetup"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="0032E4C8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <GroupHeader>1</GroupHeader>
+          <Address>0032E4C8</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>56</ID>
+              <Description>"Unk0"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>57</ID>
+              <Description>"Unk1"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>58</ID>
+              <Description>"ControllerIndex"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>59</ID>
+              <Description>"Unk2"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>60</ID>
+              <Description>"Unk3"</Description>
+              <ShowAsSigned>1</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>61</ID>
+              <Description>"SaveDataPointer"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>String</VariableType>
+              <Length>8</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>0032E4DC</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>62</ID>
+              <Description>"Unk4"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>63</ID>
+              <Description>"UnkPointer0"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4E4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>64</ID>
+              <Description>"UnkPointer1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>65</ID>
+              <Description>"CharacterChoice"</Description>
+              <DropDownList DisplayValueAsItem="1">0:Eddie
+1:Kaori
+2:Luther
+3:Mac
+4:Moby
+5:Zoe
+6:JP
+7:Elise
+8:Psymon
+9:Seeiah
+10:Brodi
+11:Marisol
+</DropDownList>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>66</ID>
+              <Description>"Unk5"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>67</ID>
+              <Description>"CharacterChoiceUnk"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4F4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>68</ID>
+              <Description>"OutfitChoice"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>69</ID>
+              <Description>"BoardChoice"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E4FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>71</ID>
+              <Description>"Unk6"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E500</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>72</ID>
+              <Description>"Unk7"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E504</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>73</ID>
+              <Description>"Unk8"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0032E508</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>123</ID>
+          <Description>"CamUnk"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>003365F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>142</ID>
+          <Description>"ReplayCamIdNames[#8]"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00336608</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>100</ID>
+          <Description>"ReplayCamMode"</Description>
+          <DropDownList DisplayValueAsItem="1">0:(SKIPPED)
+1:Reverse Cam
+2:Near Cam
+3:Eyeball Cam (SKIPPED)
+4:Medium Cam
+5:Far Cam
+6:Overhead Cam
+7:TV Cam
+8:manual Cam
+</DropDownList>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>3368a0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"ReplayCamName"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>16</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>003368D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"ReplayTVCamName"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>16</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>00336900</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>784</ID>
+          <Description>"ReplayCam.x"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>5151FF</Color>
+          <VariableType>Float</VariableType>
+          <Address>00336D8C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>785</ID>
+          <Description>"ReplayCam.y"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>62FFB0</Color>
+          <VariableType>Float</VariableType>
+          <Address>00336D90</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>786</ID>
+          <Description>"ReplayCam.z"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>FFA850</Color>
+          <VariableType>Float</VariableType>
+          <Address>00336D94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"RiderPointer"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>FF80FF</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00336D98</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>787</ID>
+          <Description>"ReplayCamUnk"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>00336D9C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>788</ID>
+          <Description>"ReplayCamRot.x"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>5151FF</Color>
+          <VariableType>Float</VariableType>
+          <Address>00336DA0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>789</ID>
+          <Description>"ReplayCamRot.y"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>60FFB0</Color>
+          <VariableType>Float</VariableType>
+          <Address>00336DA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>790</ID>
+          <Description>"ReplayCamRot.z"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>FFA850</Color>
+          <VariableType>Float</VariableType>
+          <Address>00336DA8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"ReplayRiderIndex"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00337770</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"ReplayCamEnabled"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00337774</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>122</ID>
+          <Description>"CamModeUnk. Unused?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00337778</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>783</ID>
+          <Description>"NumCams"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00337780</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>373</ID>
+          <Description>"NumWorlds"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00337CE8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>367</ID>
+          <Description>"HUDLayout"</Description>
+          <DropDownList DisplayValueAsItem="1">0:default
+1:split_screen?
+2:split_screen??
+</DropDownList>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>3381e4 </Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>778</ID>
+          <Description>"AnimCategPointer"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>C080FF</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00345E48</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>779</ID>
+              <Description>"AnimCateg"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+ 00</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>852</ID>
+          <Description>"WorldCamStartEnd"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>841</ID>
+              <Description>"WorldCamCurrentStart.x"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDA78</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>842</ID>
+              <Description>"WorldCamCurrentStart.y"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDA7C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>843</ID>
+              <Description>"WorldCamCurrentStart.z"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDA80</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>847</ID>
+              <Description>"WorldCamCurrentStartRot.x"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDA84</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>848</ID>
+              <Description>"WorldCamCurrentStartRot.y"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDA88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>849</ID>
+              <Description>"WorldCamCurrentStartRot.z"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDA8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>850</ID>
+              <Description>"WorldCamCurrentStartFOV"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDA90</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>851</ID>
+              <Description>"WorldCamCurrentStartUnk"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDA94</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>844</ID>
+              <Description>"WorldCamCurrentEnd.x"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003cdad0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>845</ID>
+              <Description>"WorldCamCurrentEnd.y"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDAD4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>846</ID>
+              <Description>"WorldCamCurrentEnd.z"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>003CDAD8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>474</ID>
+          <Description>"TreeGroups"</Description>
+          <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>003464B0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>394</ID>
+              <Description>"NumRenderedTreeGroups?"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+ 00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>476</ID>
+              <Description>"Unk"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+ 0x4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>477</ID>
+              <Description>"Unk"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>478</ID>
+              <Description>"Unk"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>479</ID>
+              <Description>"Unk"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>480</ID>
+              <Description>"TreeGroupsPointersArray"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+14</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>147</ID>
+          <Description>"SLUS-20326"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>0039218A</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>226</ID>
+      <Description>"OtherPointers"</Description>
+      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>83BE56</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>227</ID>
+          <Description>"RidersPointerStructAmber"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00336D98</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>911</ID>
+              <Description>"💬 In this struct RiderA is always Player1"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>C0C0C0</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>912</ID>
+              <Description>"💬 Note these pointers are in a camera struct."</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>C0C0C0</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>228</ID>
+              <Description>"RiderA"</Description>
+              <Options moManualExpandCollapse="1"/>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>04A5FB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00336D98</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>229</ID>
+                  <Description>"BoostMeter"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+0x1c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>230</ID>
+                  <Description>"UberTimeLeft"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 24</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>264</ID>
+                  <Description>"Placement"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+0x110</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1029</ID>
+                  <Description>"Laps"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+114</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>231</ID>
+                  <Description>"Pos.x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>5151FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 140</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>232</ID>
+                  <Description>"Pos.y"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>62FFB0</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+144</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>233</ID>
+                  <Description>"Pos.z"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFA850</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+148</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>518</ID>
+                  <Description>"Velocity.x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFFFFF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+150</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>519</ID>
+                  <Description>"Velocity.y"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFFFFF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+154</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>520</ID>
+                  <Description>"Velocity.z"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFFFFF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+154</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>327</ID>
+                  <Description>"unk"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x204</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>248</ID>
+                  <Description>"SurfaceType"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 290</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>234</ID>
+                  <Description>"MotionState?"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:stop|no interaction
+1:in_air
+2:riding
+3:rail grind
+4:reset|start gate|finish|time up
+5:crash
+6:nis anim|crash recover
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+0x424</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>324</ID>
+                  <Description>"ControlState?"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:after_1
+1:when_starting_race
+2:bonk
+3:riding
+4:soft_landing?
+5:?
+6:?
+7:leaving_start_gate_b
+8:start_gate
+9:leaving_start_gate_a
+10:?
+11:hard_landing?
+12:hard_landing??
+13:?
+14:preparing_jump
+15:rail
+16:in_air
+17:stand_up_from_sit
+18:?boost?
+19:crash_tumble
+20:recovering
+21:?
+22:resetting
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x428</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>265</ID>
+                  <Description>"RiderInfoPointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x464</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>266</ID>
+                      <Description>"RiderInfoPointer"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 0x0</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>235</ID>
+                  <Description>"Hitbox[#19]"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+480</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>236</ID>
+                      <Description>"Pos.x"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+0</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>237</ID>
+                      <Description>"Pos.y"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+4</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>238</ID>
+                      <Description>"Pos.z"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+8</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>239</ID>
+                      <Description>"Pos.w"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>240</ID>
+                      <Description>"Size"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+ 0x10</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>241</ID>
+                      <Description>"Parent"</Description>
+                      <ShowAsSigned>1</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+14</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>242</ID>
+                      <Description>"NumChildren"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+18</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>243</ID>
+                      <Description>"Pad"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+1C</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>901</ID>
+                  <Description>"BonesEuler"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 7c0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>246</ID>
+                  <Description>"SkeletonDistanceFromBoard"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ b40</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>249</ID>
+                  <Description>"Unk"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 46b0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>900</ID>
+                  <Description>"DoProcessRider?"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 46b0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>330</ID>
+                  <Description>"BonesMatrix"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 0x4a60</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>244</ID>
+                  <Description>"AirTimer"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>902</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>454</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>513</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>329</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>328</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>250</ID>
+                  <Description>"RailGrindTimer"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x5844</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>949</ID>
+                  <Description>"CurrentMultiply"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 0x5848</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>251</ID>
+                  <Description>"Spins180"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x5894</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>252</ID>
+                  <Description>"Flips360"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x5898</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>253</ID>
+                  <Description>"NumGrabs"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x589c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>254</ID>
+                  <Description>"NumRailsGrinded"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58a0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>255</ID>
+                  <Description>"NumTricks"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58a4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>256</ID>
+                  <Description>"NumUberTricks"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58a8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>257</ID>
+                  <Description>"NumResets"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58ac</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>258</ID>
+                  <Description>"NumCrashes"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58b0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>259</ID>
+                  <Description>"NumMultiplier2x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58d0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>260</ID>
+                  <Description>"NumMultiplier3x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58d4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>261</ID>
+                  <Description>"NumMultiplier4x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58d8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>262</ID>
+                  <Description>"NumKnockdowns"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58dc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>263</ID>
+                  <Description>"Score"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x5910</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>453</ID>
+                  <Description>"LODStructPointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 5ae0</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>312</ID>
+                      <Description>"LODStructPointer"</Description>
+                      <Options moManualExpandCollapse="1"/>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>323</ID>
+                          <Description>"LOD"</Description>
+                          <DropDownList DisplayValueAsItem="1">0:High
+1:Med
+2:Low
+</DropDownList>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 0x3f8</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>895</ID>
+                  <Description>"UIBoostMeterStuff"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>+ 0xae08d4</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>897</ID>
+                      <Description>"UberSpinnerSpinny"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+ AC</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>896</ID>
+                      <Description>"UIBoostMeterBuildup"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+ 80</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>972</ID>
+              <Description>"RiderB"</Description>
+              <Options moManualExpandCollapse="1"/>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>04A5FB</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00336DB8</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>973</ID>
+                  <Description>"BoostMeter"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+0x1c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>974</ID>
+                  <Description>"UberTimeLeft"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 24</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>975</ID>
+                  <Description>"Placement"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+0x110</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>976</ID>
+                  <Description>"Pos.x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>5151FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 0x140</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>977</ID>
+                  <Description>"Pos.y"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>62FFB0</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+144</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>978</ID>
+                  <Description>"Pos.z"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFA850</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+148</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>979</ID>
+                  <Description>"Velocity.x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFFFFF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+150</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>980</ID>
+                  <Description>"Velocity.y"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFFFFF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+154</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>981</ID>
+                  <Description>"Velocity.z"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FFFFFF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+154</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>982</ID>
+                  <Description>"unk"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x204</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>983</ID>
+                  <Description>"SurfaceType"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 290</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>984</ID>
+                  <Description>"MotionState?"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:stop|no interaction
+1:in_air
+2:riding
+3:rail grind
+4:reset|start gate|finish|time up
+5:crash
+6:nis anim|crash recover
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+0x424</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>985</ID>
+                  <Description>"ControlState?"</Description>
+                  <DropDownList DisplayValueAsItem="1">0:after_1
+1:when_starting_race
+2:bonk
+3:riding
+4:soft_landing?
+5:?
+6:?
+7:leaving_start_gate_b
+8:start_gate
+9:leaving_start_gate_a
+10:?
+11:hard_landing?
+12:hard_landing??
+13:?
+14:preparing_jump
+15:rail
+16:in_air
+17:stand_up_from_sit
+18:?boost?
+19:crash_tumble
+20:recovering
+21:?
+22:resetting
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x428</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>986</ID>
+                  <Description>"RiderInfoPointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x464</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>987</ID>
+                      <Description>"RiderInfoPointer"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 0x0</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>988</ID>
+                  <Description>"Hitbox[#19]"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+480</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>989</ID>
+                      <Description>"Pos.x"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+0</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>990</ID>
+                      <Description>"Pos.y"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+4</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>991</ID>
+                      <Description>"Pos.z"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+8</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>992</ID>
+                      <Description>"Pos.w"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>993</ID>
+                      <Description>"Size"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+ 0x10</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>994</ID>
+                      <Description>"Parent"</Description>
+                      <ShowAsSigned>1</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+14</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>995</ID>
+                      <Description>"NumChildren"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+18</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>996</ID>
+                      <Description>"Pad"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+1C</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>997</ID>
+                  <Description>"BonesEuler"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 7c0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>998</ID>
+                  <Description>"SkeletonDistanceFromBoard"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ b40</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>999</ID>
+                  <Description>"Unk"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 46b0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1000</ID>
+                  <Description>"DoProcessRider?"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 46b0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1001</ID>
+                  <Description>"BonesMatrix"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 0x4a60</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1002</ID>
+                  <Description>"AirTimer"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1003</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1004</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1005</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1006</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1007</ID>
+                  <Description>"#"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x57fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1008</ID>
+                  <Description>"RailGrindTimer"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x5844</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1009</ID>
+                  <Description>"CurrentMultiply"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 0x5848</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1010</ID>
+                  <Description>"Spins180"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x5894</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1011</ID>
+                  <Description>"Flips360"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x5898</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1012</ID>
+                  <Description>"NumGrabs"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x589c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1013</ID>
+                  <Description>"NumRailsGrinded"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58a0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1014</ID>
+                  <Description>"NumTricks"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58a4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1015</ID>
+                  <Description>"NumUberTricks"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58a8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1016</ID>
+                  <Description>"NumResets"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58ac</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1017</ID>
+                  <Description>"NumCrashes"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58b0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1018</ID>
+                  <Description>"NumMultiplier2x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58d0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1019</ID>
+                  <Description>"NumMultiplier3x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58d4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1020</ID>
+                  <Description>"NumMultiplier4x"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58d8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1021</ID>
+                  <Description>"NumKnockdowns"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x58dc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1022</ID>
+                  <Description>"Score"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x5910</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1023</ID>
+                  <Description>"LODStructPointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 5ae0</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1024</ID>
+                      <Description>"LODStructPointer"</Description>
+                      <Options moManualExpandCollapse="1"/>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>1025</ID>
+                          <Description>"LOD"</Description>
+                          <DropDownList DisplayValueAsItem="1">0:High
+1:Med
+2:Low
+</DropDownList>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 0x3f8</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1026</ID>
+                  <Description>"UIBoostMeterStuff"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>+ 0xae08d4</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>1027</ID>
+                      <Description>"UberSpinnerSpinny"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+ AC</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1028</ID>
+                      <Description>"UIBoostMeterBuildup"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+ 80</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>466</ID>
+              <Description>"RiderC"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00336DD8</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>309</ID>
+              <Description>"RiderD"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00336DF8</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>310</ID>
+              <Description>"RiderE"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00336E18</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>311</ID>
+              <Description>"RiderF"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00336E38</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>385</ID>
+          <Description>"OnVBlankEndPointer ¬"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>C080FF</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00337C58</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>529</ID>
+              <Description>"OnVBlankEnd"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+ 00</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>528</ID>
+                  <Description>"TimeScale/GameRate"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+ 0x18</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>384</ID>
+          <Description>"KozukiPointer"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>C080FF</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00337C58</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>859</ID>
+              <Description>"Kozuki"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+ 00</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>861</ID>
+                  <Description>"CrackenPointer"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>C080FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 00</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>530</ID>
+                      <Description>"Cracken"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>860</ID>
+                          <Description>"MacCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 20</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>863</ID>
+                              <Description>"MacCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                              <CheatEntries>
+                                <CheatEntry>
+                                  <ID>858</ID>
+                                  <Description>"OutfitChoiceTemp"</Description>
+                                  <ShowAsSigned>0</ShowAsSigned>
+                                  <VariableType>Byte</VariableType>
+                                  <Address>+ 159</Address>
+                                </CheatEntry>
+                                <CheatEntry>
+                                  <ID>865</ID>
+                                  <Description>"BoardChoiceTemp"</Description>
+                                  <ShowAsSigned>0</ShowAsSigned>
+                                  <VariableType>Byte</VariableType>
+                                  <Address>+158</Address>
+                                </CheatEntry>
+                                <CheatEntry>
+                                  <ID>890</ID>
+                                  <Description>"LightTransition"</Description>
+                                  <ShowAsSigned>0</ShowAsSigned>
+                                  <VariableType>4 Bytes</VariableType>
+                                  <Address>+ 154</Address>
+                                </CheatEntry>
+                              </CheatEntries>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>870</ID>
+                          <Description>"KaoriCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+24</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>871</ID>
+                              <Description>"KaoriCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>872</ID>
+                          <Description>"PsymonCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+28</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>873</ID>
+                              <Description>"PsymonCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>874</ID>
+                          <Description>"BrodiCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+2C</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>875</ID>
+                              <Description>"BrodiCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>866</ID>
+                          <Description>"EddieCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+30</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>867</ID>
+                              <Description>"EddieCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                              <CheatEntries>
+                                <CheatEntry>
+                                  <ID>868</ID>
+                                  <Description>"OutfitChoiceTemp"</Description>
+                                  <ShowAsSigned>0</ShowAsSigned>
+                                  <VariableType>Byte</VariableType>
+                                  <Address>+ 159</Address>
+                                </CheatEntry>
+                                <CheatEntry>
+                                  <ID>869</ID>
+                                  <Description>"BoardChoiceTemp"</Description>
+                                  <ShowAsSigned>0</ShowAsSigned>
+                                  <VariableType>Byte</VariableType>
+                                  <Address>+158</Address>
+                                </CheatEntry>
+                              </CheatEntries>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>876</ID>
+                          <Description>"EliseCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+34</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>877</ID>
+                              <Description>"EliseCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>878</ID>
+                          <Description>"MarisolCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+38</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>879</ID>
+                              <Description>"MarisolCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>880</ID>
+                          <Description>"SeeiahCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+3C</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>881</ID>
+                              <Description>"SeeiahCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>882</ID>
+                          <Description>"LutherCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+40</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>883</ID>
+                              <Description>"LutherCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>884</ID>
+                          <Description>"JpCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+44</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>885</ID>
+                              <Description>"JpCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>886</ID>
+                          <Description>"ZoeCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+48</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>887</ID>
+                              <Description>"ZoeCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>888</ID>
+                          <Description>"MobyCompostPointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+4C</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>889</ID>
+                              <Description>"MobyCompost"</Description>
+                              <ShowAsSigned>1</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>101</ID>
+      <Description>"WIP (pls note mode and map)"</Description>
+      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>1A64C8</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>521</ID>
+          <Description>"Showoff/Free Gari Mac"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>515</ID>
+              <Description>"AnimSeqA"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00AFBC88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>516</ID>
+              <Description>"AnimSeqB"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>00AFBC8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>932</ID>
+              <Description>"PadInput"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>0084588C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>933</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845890</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>934</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845896</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>935</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>008458B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>936</ID>
+              <Description>"PadInput"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>008458B6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>937</ID>
+              <Description>"PadInput"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845942</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>938</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845948</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>939</ID>
+              <Description>"PadInput"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>008459C2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>940</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>008459C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>941</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845C98</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>942</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845CF0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>943</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845D48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>944</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845DA0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>945</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845DF8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>946</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845E50</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>947</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845EA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>948</ID>
+              <Description>"PadInput"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00845F00</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>538</ID>
+          <Description>"Anim Uber/Trick State/Pointer (one of these)"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>539</ID>
+              <Description>"move this to AnimCateg"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>008BFC68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>773</ID>
+              <Description>"No description"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>008CF54C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>774</ID>
+              <Description>"No description"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>008D0A1C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>775</ID>
+              <Description>"No description"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00AC5A3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>776</ID>
+              <Description>"No description"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00AF77A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>777</ID>
+              <Description>"No description"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00AFBC88</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>950</ID>
+          <Description>"snowdream, showoff - scoreToAddPreMult"</Description>
+          <VariableType>2 Bytes</VariableType>
+          <Address>01454A9C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>960</ID>
+          <Description>"Aggro SaveState 3"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>961</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00889228</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>962</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>0088922C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>963</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>0088923A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>964</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00AD14E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>965</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00AD14E4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>966</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00AD14F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>967</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00AD14F2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>968</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00BB0638</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>969</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00BB063C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>970</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00BB0648</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>971</ID>
+              <Description>"Aggression"</Description>
+              <VariableType>2 Bytes</VariableType>
+              <Address>00BB064A</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>395</ID>
+      <Description>"AppPointer"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>C080FF</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00337c58</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>148</ID>
+          <Description>"App"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>5454E9</Color>
+          <VariableType>Byte</VariableType>
+          <Address>00337c58</Address>
+          <Offsets>
+            <Offset>0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>383</ID>
+              <Description>"GamePointer"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>C080FF</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+ 730</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>150</ID>
+              <Description>"Game"</Description>
+              <Options moManualExpandCollapse="1"/>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+0x730</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>455</ID>
+                  <Description>"ApplePiePointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>C080FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+0x1c</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>456</ID>
+                      <Description>"ApplePie"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>366</ID>
+                          <Description>"NumHumans"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+0x7c</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>458</ID>
+                          <Description>"NumAi"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+0x80</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>459</ID>
+                          <Description>"Unk"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+0x84</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>464</ID>
+                          <Description>"NumRidersAgain"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+0x88</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>467</ID>
+                          <Description>"Rider0Pointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 0 * 4 + 0xc4</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>473</ID>
+                              <Description>"Rider0"</Description>
+                              <ShowAsHex>1</ShowAsHex>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>468</ID>
+                          <Description>"Rider1Pointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 1 * 4 + 0xc4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>469</ID>
+                          <Description>"Rider2Pointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 2 * 4 + 0xc4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>470</ID>
+                          <Description>"Rider3Pointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 3 * 4 + 0xc4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>471</ID>
+                          <Description>"Rider4Pointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 4 * 4 + 0xc4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>472</ID>
+                          <Description>"Rider5Pointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 5 * 4 + 0xc4</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>460</ID>
+                          <Description>"Player1Somethin"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+0 * 4 + 0x8c</Address>
+                          <Offsets>
+                            <Offset>0</Offset>
+                          </Offsets>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>462</ID>
+                              <Description>"Unk"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+0x460</Address>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>461</ID>
+                          <Description>"Player2Somethin"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+1 * 4 + 0x8c</Address>
+                          <Offsets>
+                            <Offset>0</Offset>
+                          </Offsets>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>463</ID>
+                              <Description>"Unk"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+0x460</Address>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>154</ID>
+                          <Description>"Timer"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Float</VariableType>
+                          <Address>+0x14</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>401</ID>
+                          <Description>"AffectsALot"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 0x1c</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>487</ID>
+                  <Description>"WorldRenderPropsPointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>C080FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x28</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>488</ID>
+                      <Description>"WorldRenderProps"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>804</ID>
+                          <Description>"GariSkyColor.r"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>0000FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 0x48</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>805</ID>
+                          <Description>"GariSkyColor.g"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>00FF00</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+4C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>806</ID>
+                          <Description>"GariSkyColor.b"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>FF8000</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+50</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>489</ID>
+                          <Description>"GariFarClip"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Float</VariableType>
+                          <Address>+ 0x60</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>490</ID>
+                          <Description>"GariHardShadowIntensity"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Float</VariableType>
+                          <Address>+ 0x80</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>491</ID>
+                          <Description>"GariAmbientIntensity?"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Float</VariableType>
+                          <Address>+ 0x90</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>818</ID>
+                          <Description>"SnowFarClip"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Float</VariableType>
+                          <Address>+ F4</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>486</ID>
+                  <Description>"idk"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x38</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>483</ID>
+                  <Description>"ReplayStuffPointer ¬"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>C080FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x40</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>386</ID>
+                      <Description>"ReplayStuffPointer"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>387</ID>
+                          <Description>"ReplayControl"</Description>
+                          <DropDownList DisplayValueAsItem="1">0:unk
+1:playing
+2:unk
+3:pause
+4:frame_advance
+</DropDownList>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 0x20</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>388</ID>
+                          <Description>"ReplayUnk"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 0x24</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>389</ID>
+                          <Description>"ReplayFrameAdvance (5)"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+28</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>392</ID>
+                          <Description>"ReplayTotalFramesA"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+2C</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>390</ID>
+                          <Description>"ReplayTotalFramesB"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+30</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>391</ID>
+                          <Description>"ReplayFrame"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+34</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>393</ID>
+                          <Description>"ReplayUnpaused"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+0x48</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>397</ID>
+                  <Description>"CarrotCakePointer (Files stuff?)"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>C080FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 44</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>811</ID>
+                      <Description>"CarrotCake"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>812</ID>
+                          <Description>"JumbotronMoviePointer"</Description>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <Color>C080FF</Color>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 10</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>813</ID>
+                              <Description>"JumbotronMovie"</Description>
+                              <ShowAsHex>1</ShowAsHex>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 00</Address>
+                              <Offsets>
+                                <Offset>0</Offset>
+                              </Offsets>
+                              <CheatEntries>
+                                <CheatEntry>
+                                  <ID>816</ID>
+                                  <Description>"SSSMoviePath"</Description>
+                                  <ShowAsSigned>0</ShowAsSigned>
+                                  <VariableType>String</VariableType>
+                                  <Length>128</Length>
+                                  <Unicode>0</Unicode>
+                                  <CodePage>0</CodePage>
+                                  <ZeroTerminate>1</ZeroTerminate>
+                                  <Address>+00</Address>
+                                </CheatEntry>
+                                <CheatEntry>
+                                  <ID>814</ID>
+                                  <Description>"SSSMovieBufferPointer"</Description>
+                                  <ShowAsHex>1</ShowAsHex>
+                                  <ShowAsSigned>0</ShowAsSigned>
+                                  <VariableType>4 Bytes</VariableType>
+                                  <Address>+94</Address>
+                                  <CheatEntries>
+                                    <CheatEntry>
+                                      <ID>815</ID>
+                                      <Description>"SSSMovieBuffer"</Description>
+                                      <ShowAsHex>1</ShowAsHex>
+                                      <ShowAsSigned>0</ShowAsSigned>
+                                      <VariableType>4 Bytes</VariableType>
+                                      <Address>+00</Address>
+                                      <Offsets>
+                                        <Offset>0</Offset>
+                                      </Offsets>
+                                    </CheatEntry>
+                                  </CheatEntries>
+                                </CheatEntry>
+                              </CheatEntries>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>320</ID>
+                  <Description>"GoingBackToMenuA"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 0x54</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>332</ID>
+                  <Description>"GoingBackToMenuB"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+58</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>797</ID>
+                  <Description>"SkyColor.r"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0000FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+5C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>798</ID>
+                  <Description>"SkyColor.g"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>00FF00</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+60</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>799</ID>
+                  <Description>"SkyColor.b"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>FF8000</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>+64</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>151</ID>
+                  <Description>"SnowfallToggle"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+0x74</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>213</ID>
+                  <Description>"SnowfallIntensity"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>+78</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>891</ID>
+                  <Description>"FaceWashPointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>C080FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ 80</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>892</ID>
+                      <Description>"FaceWash"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>893</ID>
+                  <Description>"FaceWashPointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>C080FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+ a4</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>894</ID>
+                      <Description>"FaceWash"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>215</ID>
+                  <Description>"Player1Viewport"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>+0x90</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>216</ID>
+                      <Description>"Offset.x"</Description>
+                      <ShowAsSigned>1</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>217</ID>
+                      <Description>"Offset.y"</Description>
+                      <ShowAsSigned>1</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+0x04</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>218</ID>
+                      <Description>"Width"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+8</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>219</ID>
+                      <Description>"Height"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>481</ID>
+                      <Description>"Player1CamStuffPointer ¬"</Description>
+                      <Options moManualExpandCollapse="1"/>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>C080FF</Color>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+0x10</Address>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>457</ID>
+                          <Description>"Player1CamStuff"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 00</Address>
+                          <Offsets>
+                            <Offset>0</Offset>
+                          </Offsets>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>405</ID>
+                              <Description>"Mode"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 0x428</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>512</ID>
+                              <Description>"FOVa"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 0x444</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>511</ID>
+                              <Description>"FOVb"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 0x49c</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>403</ID>
+                              <Description>"Pos.x"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>5151FF</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 0x4dc</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>494</ID>
+                              <Description>"Pos.y"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>62FFB0</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4E0</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>495</ID>
+                              <Description>"Pos.z"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>FFA850</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4E4</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>536</ID>
+                              <Description>"RiderPointer"</Description>
+                              <ShowAsHex>1</ShowAsHex>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>C080FF</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4E8</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>533</ID>
+                              <Description>"Rot.x"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>5151FF</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4EC</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>534</ID>
+                              <Description>"Rot.y"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>62FFB0</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4F0</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>535</ID>
+                              <Description>"Rot.z"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>FFA850</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4F4</Address>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>224</ID>
+                      <Description>"RiderPointer"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>C080FF</Color>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+14</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>225</ID>
+                      <Description>"SkyPos.x"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>5151FF</Color>
+                      <VariableType>Float</VariableType>
+                      <Address>+ 0x20</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>781</ID>
+                      <Description>"SkyPos.y"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>62FFB0</Color>
+                      <VariableType>Float</VariableType>
+                      <Address>+24</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>782</ID>
+                      <Description>"SkyPos.z"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>FFA850</Color>
+                      <VariableType>Float</VariableType>
+                      <Address>+28</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>780</ID>
+                      <Description>"CamMatrix4x4"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>408000</Color>
+                      <VariableType>Float</VariableType>
+                      <Address>+30</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>819</ID>
+                  <Description>"Player2Viewport"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>+ 110</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>820</ID>
+                      <Description>"Offset.x"</Description>
+                      <ShowAsSigned>1</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 00</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>821</ID>
+                      <Description>"Offset.y"</Description>
+                      <ShowAsSigned>1</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+0x04</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>822</ID>
+                      <Description>"Width"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+8</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>823</ID>
+                      <Description>"Height"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+C</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>824</ID>
+                      <Description>"Player2CamStuffPointer ¬"</Description>
+                      <Options moManualExpandCollapse="1"/>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>C080FF</Color>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+0x10</Address>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>825</ID>
+                          <Description>"Player1CamStuff"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 00</Address>
+                          <Offsets>
+                            <Offset>0</Offset>
+                          </Offsets>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>826</ID>
+                              <Description>"Mode"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+ 0x428</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>827</ID>
+                              <Description>"FOVa"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 0x444</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>828</ID>
+                              <Description>"FOVb"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 0x49c</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>829</ID>
+                              <Description>"Pos.x"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>5151FF</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 0x4dc</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>830</ID>
+                              <Description>"Pos.y"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>62FFB0</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4E0</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>831</ID>
+                              <Description>"Pos.z"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>FFA850</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4E4</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>832</ID>
+                              <Description>"RiderPointer"</Description>
+                              <ShowAsHex>1</ShowAsHex>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>C080FF</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4E8</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>833</ID>
+                              <Description>"Rot.x"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>5151FF</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4EC</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>834</ID>
+                              <Description>"Rot.y"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>62FFB0</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4F0</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>835</ID>
+                              <Description>"Rot.z"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <Color>FFA850</Color>
+                              <VariableType>Float</VariableType>
+                              <Address>+4F4</Address>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>836</ID>
+                      <Description>"RiderPointer"</Description>
+                      <ShowAsHex>1</ShowAsHex>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>C080FF</Color>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+14</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>837</ID>
+                      <Description>"SkyPos.x"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>5151FF</Color>
+                      <VariableType>Float</VariableType>
+                      <Address>+ 0x20</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>838</ID>
+                      <Description>"SkyPos.y"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>62FFB0</Color>
+                      <VariableType>Float</VariableType>
+                      <Address>+24</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>839</ID>
+                      <Description>"SkyPos.z"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>FFA850</Color>
+                      <VariableType>Float</VariableType>
+                      <Address>+28</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>840</ID>
+                      <Description>"CamMatrix4x4"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>408000</Color>
+                      <VariableType>Float</VariableType>
+                      <Address>+30</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>913</ID>
+                  <Description>"SnowCachePointer ¬"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>C080FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+24</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>914</ID>
+                      <Description>"SnowCache"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>Float</VariableType>
+                      <Address>+ 00</Address>
+                      <Offsets>
+                        <Offset>0</Offset>
+                      </Offsets>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>1055</ID>
+                          <Description>"💬 Each entry is 0x64 in size"</Description>
+                          <LastState Value="" RealAddress="00000000"/>
+                          <Color>C0C0C0</Color>
+                          <GroupHeader>1</GroupHeader>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>915</ID>
+                          <Description>"SnowCache[1]"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Float</VariableType>
+                          <Address>+ 64</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>1053</ID>
+                              <Description>"💬 Main snow type"</Description>
+                              <LastState Value="" RealAddress="00000000"/>
+                              <Color>C0C0C0</Color>
+                              <GroupHeader>1</GroupHeader>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>916</ID>
+                              <Description>"unk"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 00</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1054</ID>
+                              <Description>"💬 Unknown data inbetween here and after ParticleTexture"</Description>
+                              <LastState Value="" RealAddress="00000000"/>
+                              <Color>C0C0C0</Color>
+                              <GroupHeader>1</GroupHeader>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>917</ID>
+                              <Description>"Stickiness"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 18</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>918</ID>
+                              <Description>"RiderOffset"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+ 28</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>919</ID>
+                              <Description>"Speed?"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+2C</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>920</ID>
+                              <Description>"ParticleOpacity"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+30</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>921</ID>
+                              <Description>"ParticleAmount"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+34</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>922</ID>
+                              <Description>"ParticleSize"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+38</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>923</ID>
+                              <Description>"ParticleTexture"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+44</Address>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1044</ID>
+                          <Description>"SnowCache[2]"</Description>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>Float</VariableType>
+                          <Address>+C8</Address>
+                          <CheatEntries>
+                            <CheatEntry>
+                              <ID>1045</ID>
+                              <Description>"unk"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+64</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1056</ID>
+                              <Description>"💬 Unknown data inbetween"</Description>
+                              <LastState Value="" RealAddress="00000000"/>
+                              <Color>C0C0C0</Color>
+                              <GroupHeader>1</GroupHeader>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1046</ID>
+                              <Description>"Stickiness"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+7C</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1047</ID>
+                              <Description>"RiderOffset"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+8C</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1048</ID>
+                              <Description>"Speed?"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+90</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1049</ID>
+                              <Description>"ParticleOpacity"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+94</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1050</ID>
+                              <Description>"ParticleAmount"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+98</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1051</ID>
+                              <Description>"ParticleSize"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>Float</VariableType>
+                              <Address>+9C</Address>
+                            </CheatEntry>
+                            <CheatEntry>
+                              <ID>1052</ID>
+                              <Description>"ParticleTexture"</Description>
+                              <ShowAsSigned>0</ShowAsSigned>
+                              <VariableType>4 Bytes</VariableType>
+                              <Address>+A8</Address>
+                            </CheatEntry>
+                          </CheatEntries>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>398</ID>
+                  <Description>"NumHumansAgain"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>+298</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>396</ID>
+              <Description>"renameme"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+ 0x44</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>404</ID>
+              <Description>"renameme"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>FFFFFFFF</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>810</ID>
+              <Description>"renameme"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>FFFFFFFF</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>402</ID>
+              <Description>"renameme"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>FFFFFFFF</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>793</ID>
+              <Description>"renameme"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>FFFFFFFF</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>931</ID>
+              <Description>"renameme"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>FFFFFFFF</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>400</ID>
+              <Description>"renameme"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>FFFFFFFF</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>399</ID>
+              <Description>"renameme"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>FFFFFFFF</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>522</ID>
+      <Description>"Lupi"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00337c60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1042</ID>
+      <Description>"LupisBrotherPointer"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00337C64</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1043</ID>
+          <Description>"LupisBrother"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00337C64</Address>
+          <Offsets>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>864</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>862</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>527</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>526</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>525</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>524</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>523</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1030</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>475</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1041</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1040</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1039</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1038</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1037</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1036</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1035</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1034</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1033</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1032</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1031</ID>
+      <Description>"Padding"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FFFFFFFF</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>369</ID>
+      <Description>"Because Cheat Engine is being annoying"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ffffffff</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Test
+</Comments>
+</CheatTable>
