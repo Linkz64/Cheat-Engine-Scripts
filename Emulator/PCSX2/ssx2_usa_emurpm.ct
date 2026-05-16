@@ -1453,6 +1453,20 @@
               <GroupHeader>1</GroupHeader>
             </CheatEntry>
             <CheatEntry>
+              <ID>1075</ID>
+              <Description>"💬 There's more pointers to riders in other structs -"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>C0C0C0</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1076</ID>
+              <Description>"💬 but I decided to put them here for convenience."</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>C0C0C0</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
               <ID>228</ID>
               <Description>"RiderA"</Description>
               <Options moManualExpandCollapse="1"/>
