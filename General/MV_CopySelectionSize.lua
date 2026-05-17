@@ -13,7 +13,12 @@ local hexView=memView.HexadecimalView
 local m=hexView.PopupMenu
 
 local mCopySelectionSize=createMenuItem(m)
-mCopySelectionSize.Caption="Copy selection size"
+
+if copy_as_decimal then
+  mCopySelectionSize.Caption="Copy selection size (Dec)"
+else
+  mCopySelectionSize.Caption="Copy selection size (Hex)"
+end
 mCopySelectionSize.ImageIndex=15
 mCopySelectionSize.Shortcut=copy_selection_size_shortcut
 mCopySelectionSize.OnClick=function(sender)
