@@ -169,7 +169,7 @@
         <CheatEntry>
           <ID>374</ID>
           <Description>"CrowdFrame0TextureIndex"</Description>
-          <LastState Value="211" RealAddress="0031D4B8"/>
+          <LastState Value="208" RealAddress="0031D4B8"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
           <Address>0031D4B8</Address>
@@ -177,7 +177,7 @@
         <CheatEntry>
           <ID>375</ID>
           <Description>"CrowdFrame1TextureIndex"</Description>
-          <LastState Value="212" RealAddress="0031D500"/>
+          <LastState Value="209" RealAddress="0031D500"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>2 Bytes</VariableType>
           <Address>0031D500</Address>
@@ -564,7 +564,7 @@
 11:alaska
 12:ssxfe
 </DropDownList>
-          <LastState Value="1" RealAddress="0032DE88"/>
+          <LastState Value="0" RealAddress="0032DE88"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>0032DE88</Address>
@@ -583,7 +583,7 @@
 8:demo
 9:test
 </DropDownList>
-          <LastState Value="3" RealAddress="0032DE8C"/>
+          <LastState Value="1" RealAddress="0032DE8C"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>0032DE8C</Address>
@@ -591,7 +591,7 @@
         <CheatEntry>
           <ID>4</ID>
           <Description>"Unk"</Description>
-          <LastState Value="277B3C50" RealAddress="0032DE90"/>
+          <LastState Value="C14CE83C" RealAddress="0032DE90"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
@@ -600,7 +600,7 @@
         <CheatEntry>
           <ID>5</ID>
           <Description>"Unk"</Description>
-          <LastState Value="8D9B55B3" RealAddress="0032DE94"/>
+          <LastState Value="A26AF988" RealAddress="0032DE94"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
@@ -684,7 +684,7 @@
         <CheatEntry>
           <ID>9</ID>
           <Description>"Unk"</Description>
-          <LastState Value="2" RealAddress="0032DEA8"/>
+          <LastState Value="1" RealAddress="0032DEA8"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>0032DEA8</Address>
@@ -1256,7 +1256,7 @@
             <CheatEntry>
               <ID>841</ID>
               <Description>"WorldCamCurrentStart.x"</Description>
-              <LastState Value="73179" RealAddress="003CDA78"/>
+              <LastState Value="0" RealAddress="003CDA78"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDA78</Address>
@@ -1264,7 +1264,7 @@
             <CheatEntry>
               <ID>842</ID>
               <Description>"WorldCamCurrentStart.y"</Description>
-              <LastState Value="-24821" RealAddress="003CDA7C"/>
+              <LastState Value="0" RealAddress="003CDA7C"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDA7C</Address>
@@ -1272,7 +1272,7 @@
             <CheatEntry>
               <ID>843</ID>
               <Description>"WorldCamCurrentStart.z"</Description>
-              <LastState Value="-64971" RealAddress="003CDA80"/>
+              <LastState Value="0" RealAddress="003CDA80"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDA80</Address>
@@ -1280,7 +1280,7 @@
             <CheatEntry>
               <ID>847</ID>
               <Description>"WorldCamCurrentStartRot.x"</Description>
-              <LastState Value="-6.699999809" RealAddress="003CDA84"/>
+              <LastState Value="0" RealAddress="003CDA84"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDA84</Address>
@@ -1288,7 +1288,7 @@
             <CheatEntry>
               <ID>848</ID>
               <Description>"WorldCamCurrentStartRot.y"</Description>
-              <LastState Value="-0.4300000072" RealAddress="003CDA88"/>
+              <LastState Value="0" RealAddress="003CDA88"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDA88</Address>
@@ -1304,7 +1304,7 @@
             <CheatEntry>
               <ID>850</ID>
               <Description>"WorldCamCurrentStartFOV"</Description>
-              <LastState Value="1.149999976" RealAddress="003CDA90"/>
+              <LastState Value="0" RealAddress="003CDA90"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDA90</Address>
@@ -1312,7 +1312,7 @@
             <CheatEntry>
               <ID>851</ID>
               <Description>"WorldCamCurrentStartUnk"</Description>
-              <LastState Value="100" RealAddress="003CDA94"/>
+              <LastState Value="0" RealAddress="003CDA94"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDA94</Address>
@@ -1320,7 +1320,7 @@
             <CheatEntry>
               <ID>844</ID>
               <Description>"WorldCamCurrentEnd.x"</Description>
-              <LastState Value="67741" RealAddress="003CDAD0"/>
+              <LastState Value="0" RealAddress="003CDAD0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003cdad0</Address>
@@ -1328,7 +1328,7 @@
             <CheatEntry>
               <ID>845</ID>
               <Description>"WorldCamCurrentEnd.y"</Description>
-              <LastState Value="-42683" RealAddress="003CDAD4"/>
+              <LastState Value="0" RealAddress="003CDAD4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDAD4</Address>
@@ -1336,7 +1336,7 @@
             <CheatEntry>
               <ID>846</ID>
               <Description>"WorldCamCurrentEnd.z"</Description>
-              <LastState Value="-72759" RealAddress="003CDAD8"/>
+              <LastState Value="0" RealAddress="003CDAD8"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Float</VariableType>
               <Address>003CDAD8</Address>
@@ -1347,7 +1347,7 @@
           <ID>474</ID>
           <Description>"TreeGroups"</Description>
           <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
-          <LastState Value="80" RealAddress="003464B0"/>
+          <LastState Value="40" RealAddress="003464B0"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
           <Address>003464B0</Address>
@@ -1355,7 +1355,7 @@
             <CheatEntry>
               <ID>394</ID>
               <Description>"NumRenderedTreeGroups?"</Description>
-              <LastState Value="80" RealAddress="003464B0"/>
+              <LastState Value="40" RealAddress="003464B0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+ 00</Address>
@@ -1371,7 +1371,7 @@
             <CheatEntry>
               <ID>477</ID>
               <Description>"Unk"</Description>
-              <LastState Value="00D38300" RealAddress="003464B8"/>
+              <LastState Value="00CF3580" RealAddress="003464B8"/>
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
@@ -1380,7 +1380,7 @@
             <CheatEntry>
               <ID>478</ID>
               <Description>"Unk"</Description>
-              <LastState Value="00CA81C0" RealAddress="003464BC"/>
+              <LastState Value="00CAB4C0" RealAddress="003464BC"/>
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
@@ -1398,7 +1398,7 @@
             <CheatEntry>
               <ID>480</ID>
               <Description>"TreeGroupsPointersArray"</Description>
-              <LastState Value="00D7F3F8" RealAddress="003464C4"/>
+              <LastState Value="00D0BD78" RealAddress="003464C4"/>
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
@@ -1483,7 +1483,7 @@
                 <CheatEntry>
                   <ID>229</ID>
                   <Description>"BoostMeter"</Description>
-                  <LastState Value="0.9225762486" RealAddress="00AF75DC"/>
+                  <LastState Value="0" RealAddress="00AF75DC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>+0x1c</Address>
@@ -1491,7 +1491,7 @@
                 <CheatEntry>
                   <ID>230</ID>
                   <Description>"UberTimeLeft"</Description>
-                  <LastState Value="17.76670074" RealAddress="00AF75E4"/>
+                  <LastState Value="0" RealAddress="00AF75E4"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>+ 24</Address>
@@ -1515,7 +1515,7 @@
                 <CheatEntry>
                   <ID>231</ID>
                   <Description>"Pos.x"</Description>
-                  <LastState Value="77076.83594" RealAddress="00AF7700"/>
+                  <LastState Value="18512.73047" RealAddress="00AF7700"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>5151FF</Color>
                   <VariableType>Float</VariableType>
@@ -1524,7 +1524,7 @@
                 <CheatEntry>
                   <ID>232</ID>
                   <Description>"Pos.y"</Description>
-                  <LastState Value="-23138.14062" RealAddress="00AF7704"/>
+                  <LastState Value="75991.27344" RealAddress="00AF7704"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>62FFB0</Color>
                   <VariableType>Float</VariableType>
@@ -1533,7 +1533,7 @@
                 <CheatEntry>
                   <ID>233</ID>
                   <Description>"Pos.z"</Description>
-                  <LastState Value="-68353.98438" RealAddress="00AF7708"/>
+                  <LastState Value="-66232.14062" RealAddress="00AF7708"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>FFA850</Color>
                   <VariableType>Float</VariableType>
@@ -1542,7 +1542,7 @@
                 <CheatEntry>
                   <ID>518</ID>
                   <Description>"Velocity.x"</Description>
-                  <LastState Value="1998.030396" RealAddress="00AF7710"/>
+                  <LastState Value="-21.63565063" RealAddress="00AF7710"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>FFFFFF</Color>
                   <VariableType>Float</VariableType>
@@ -1551,7 +1551,7 @@
                 <CheatEntry>
                   <ID>519</ID>
                   <Description>"Velocity.y"</Description>
-                  <LastState Value="-1503.1875" RealAddress="00AF7714"/>
+                  <LastState Value="633.803894" RealAddress="00AF7714"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>FFFFFF</Color>
                   <VariableType>Float</VariableType>
@@ -1560,7 +1560,7 @@
                 <CheatEntry>
                   <ID>520</ID>
                   <Description>"Velocity.z"</Description>
-                  <LastState Value="-1503.1875" RealAddress="00AF7714"/>
+                  <LastState Value="633.803894" RealAddress="00AF7714"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>FFFFFF</Color>
                   <VariableType>Float</VariableType>
@@ -1625,7 +1625,7 @@
 21:?
 22:resetting
 </DropDownList>
-                  <LastState Value="3" RealAddress="00AF79E8"/>
+                  <LastState Value="12" RealAddress="00AF79E8"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x428</Address>
@@ -1656,7 +1656,7 @@
                   <ID>235</ID>
                   <Description>"Hitbox[#19]"</Description>
                   <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
-                  <LastState Value="77080.86719" RealAddress="00AF7A40"/>
+                  <LastState Value="18537.99219" RealAddress="00AF7A40"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>+480</Address>
@@ -1664,7 +1664,7 @@
                     <CheatEntry>
                       <ID>236</ID>
                       <Description>"Pos.x"</Description>
-                      <LastState Value="77080.86719" RealAddress="00AF7A40"/>
+                      <LastState Value="18537.99219" RealAddress="00AF7A40"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>+0</Address>
@@ -1672,7 +1672,7 @@
                     <CheatEntry>
                       <ID>237</ID>
                       <Description>"Pos.y"</Description>
-                      <LastState Value="-23147.15039" RealAddress="00AF7A44"/>
+                      <LastState Value="75931.71875" RealAddress="00AF7A44"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>+4</Address>
@@ -1680,7 +1680,7 @@
                     <CheatEntry>
                       <ID>238</ID>
                       <Description>"Pos.z"</Description>
-                      <LastState Value="-68295.04688" RealAddress="00AF7A48"/>
+                      <LastState Value="-66149.14844" RealAddress="00AF7A48"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>+8</Address>
@@ -1730,7 +1730,7 @@
                 <CheatEntry>
                   <ID>901</ID>
                   <Description>"BonesEuler"</Description>
-                  <LastState Value="-1.445358276" RealAddress="00AF7D80"/>
+                  <LastState Value="-1.557020783" RealAddress="00AF7D80"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>+ 7c0</Address>
@@ -1762,7 +1762,7 @@
                 <CheatEntry>
                   <ID>330</ID>
                   <Description>"BonesMatrix"</Description>
-                  <LastState Value="0.7996423244" RealAddress="00AFC020"/>
+                  <LastState Value="-0.1769124568" RealAddress="00AFC020"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>+ 0x4a60</Address>
@@ -1770,7 +1770,7 @@
                 <CheatEntry>
                   <ID>244</ID>
                   <Description>"AirTimer"</Description>
-                  <LastState Value="0.05000000447" RealAddress="00AFCDBC"/>
+                  <LastState Value="3.449996948" RealAddress="00AFCDBC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>+ 57fc</Address>
@@ -1778,7 +1778,7 @@
                 <CheatEntry>
                   <ID>902</ID>
                   <Description>"#"</Description>
-                  <LastState Value="1028443342" RealAddress="00AFCDBC"/>
+                  <LastState Value="1079823552" RealAddress="00AFCDBC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x57fc</Address>
@@ -1786,7 +1786,7 @@
                 <CheatEntry>
                   <ID>454</ID>
                   <Description>"#"</Description>
-                  <LastState Value="1028443342" RealAddress="00AFCDBC"/>
+                  <LastState Value="1079823552" RealAddress="00AFCDBC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x57fc</Address>
@@ -1794,7 +1794,7 @@
                 <CheatEntry>
                   <ID>513</ID>
                   <Description>"#"</Description>
-                  <LastState Value="1028443342" RealAddress="00AFCDBC"/>
+                  <LastState Value="1079823552" RealAddress="00AFCDBC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x57fc</Address>
@@ -1802,7 +1802,7 @@
                 <CheatEntry>
                   <ID>329</ID>
                   <Description>"#"</Description>
-                  <LastState Value="1028443342" RealAddress="00AFCDBC"/>
+                  <LastState Value="1079823552" RealAddress="00AFCDBC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x57fc</Address>
@@ -1810,7 +1810,7 @@
                 <CheatEntry>
                   <ID>328</ID>
                   <Description>"#"</Description>
-                  <LastState Value="1028443342" RealAddress="00AFCDBC"/>
+                  <LastState Value="1079823552" RealAddress="00AFCDBC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x57fc</Address>
@@ -1818,7 +1818,7 @@
                 <CheatEntry>
                   <ID>250</ID>
                   <Description>"RailGrindTimer"</Description>
-                  <LastState Value="0" RealAddress="00AFCE04"/>
+                  <LastState Value="1033946350" RealAddress="00AFCE04"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x5844</Address>
@@ -1834,7 +1834,7 @@
                 <CheatEntry>
                   <ID>251</ID>
                   <Description>"Spins180"</Description>
-                  <LastState Value="5760" RealAddress="00AFCE54"/>
+                  <LastState Value="0" RealAddress="00AFCE54"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x5894</Address>
@@ -1842,7 +1842,7 @@
                 <CheatEntry>
                   <ID>252</ID>
                   <Description>"Flips360"</Description>
-                  <LastState Value="3600" RealAddress="00AFCE58"/>
+                  <LastState Value="0" RealAddress="00AFCE58"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x5898</Address>
@@ -1850,7 +1850,7 @@
                 <CheatEntry>
                   <ID>253</ID>
                   <Description>"NumGrabs"</Description>
-                  <LastState Value="8" RealAddress="00AFCE5C"/>
+                  <LastState Value="4" RealAddress="00AFCE5C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x589c</Address>
@@ -1858,7 +1858,7 @@
                 <CheatEntry>
                   <ID>254</ID>
                   <Description>"NumRailsGrinded"</Description>
-                  <LastState Value="4" RealAddress="00AFCE60"/>
+                  <LastState Value="0" RealAddress="00AFCE60"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x58a0</Address>
@@ -1866,7 +1866,7 @@
                 <CheatEntry>
                   <ID>255</ID>
                   <Description>"NumTricks"</Description>
-                  <LastState Value="15" RealAddress="00AFCE64"/>
+                  <LastState Value="4" RealAddress="00AFCE64"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x58a4</Address>
@@ -1874,7 +1874,7 @@
                 <CheatEntry>
                   <ID>256</ID>
                   <Description>"NumUberTricks"</Description>
-                  <LastState Value="4" RealAddress="00AFCE68"/>
+                  <LastState Value="0" RealAddress="00AFCE68"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x58a8</Address>
@@ -1898,7 +1898,7 @@
                 <CheatEntry>
                   <ID>259</ID>
                   <Description>"NumMultiplier2x"</Description>
-                  <LastState Value="2" RealAddress="00AFCE90"/>
+                  <LastState Value="0" RealAddress="00AFCE90"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x58d0</Address>
@@ -1906,7 +1906,7 @@
                 <CheatEntry>
                   <ID>260</ID>
                   <Description>"NumMultiplier3x"</Description>
-                  <LastState Value="3" RealAddress="00AFCE94"/>
+                  <LastState Value="0" RealAddress="00AFCE94"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x58d4</Address>
@@ -1914,7 +1914,7 @@
                 <CheatEntry>
                   <ID>261</ID>
                   <Description>"NumMultiplier4x"</Description>
-                  <LastState Value="1" RealAddress="00AFCE98"/>
+                  <LastState Value="0" RealAddress="00AFCE98"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+ 0x58d8</Address>
@@ -1928,12 +1928,52 @@
                   <Address>+ 0x58dc</Address>
                 </CheatEntry>
                 <CheatEntry>
-                  <ID>263</ID>
-                  <Description>"Score"</Description>
-                  <LastState Value="244940" RealAddress="00AFCED0"/>
+                  <ID>1078</ID>
+                  <Description>"RiderMetrix"</Description>
+                  <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                  <LastState Value="588" RealAddress="00AFCDE0"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>+ 0x5910</Address>
+                  <Address>+ 5820</Address>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>263</ID>
+                      <Description>"Score"</Description>
+                      <LastState Value="1920" RealAddress="00AFCED0"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ f0</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>1079</ID>
+                      <Description>"TrickHistory[#5]"</Description>
+                      <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
+                      <LastState Value="5888" RealAddress="00AFCF10"/>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>+ 130</Address>
+                      <CheatEntries>
+                        <CheatEntry>
+                          <ID>1080</ID>
+                          <Description>"TrickIndex"</Description>
+                          <LastState Value="00001700" RealAddress="00AFCF10"/>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+ 00</Address>
+                        </CheatEntry>
+                        <CheatEntry>
+                          <ID>1081</ID>
+                          <Description>"TrickHistoryUnk"</Description>
+                          <LastState Value="00100000" RealAddress="00AFCF14"/>
+                          <ShowAsHex>1</ShowAsHex>
+                          <ShowAsSigned>0</ShowAsSigned>
+                          <VariableType>4 Bytes</VariableType>
+                          <Address>+4</Address>
+                        </CheatEntry>
+                      </CheatEntries>
+                    </CheatEntry>
+                  </CheatEntries>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>453</ID>
@@ -1964,7 +2004,7 @@
 1:Med
 2:Low
 </DropDownList>
-                          <LastState Value="0" RealAddress="00AF7138"/>
+                          <LastState Value="1" RealAddress="00AF7138"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>+ 0x3f8</Address>
@@ -1976,7 +2016,7 @@
                 <CheatEntry>
                   <ID>895</ID>
                   <Description>"UIBoostMeterStuff"</Description>
-                  <LastState Value="EF" RealAddress="015D7E94"/>
+                  <LastState Value="00" RealAddress="015D7E94"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Byte</VariableType>
@@ -1985,7 +2025,7 @@
                     <CheatEntry>
                       <ID>897</ID>
                       <Description>"UberSpinnerSpinny"</Description>
-                      <LastState Value="6.28314708E-30" RealAddress="015D7F40"/>
+                      <LastState Value="0" RealAddress="015D7F40"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>+ AC</Address>
@@ -1993,7 +2033,7 @@
                     <CheatEntry>
                       <ID>896</ID>
                       <Description>"UIBoostMeterBuildup"</Description>
-                      <LastState Value="4.654201746E-10" RealAddress="015D7F14"/>
+                      <LastState Value="0.05327479541" RealAddress="015D7F14"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Float</VariableType>
                       <Address>+ 80</Address>
@@ -2476,7 +2516,7 @@
                       <ID>1024</ID>
                       <Description>"LODStructPointer"</Description>
                       <Options moManualExpandCollapse="1"/>
-                      <LastState Value="00000000" RealAddress="0060102D"/>
+                      <LastState Value="EDDEADC0" RealAddress="0060102D"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -2492,7 +2532,7 @@
 1:Med
 2:Low
 </DropDownList>
-                          <LastState Value="0" RealAddress="00601425"/>
+                          <LastState Value="3990793664" RealAddress="00601425"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>+ 0x3f8</Address>
@@ -2710,7 +2750,7 @@
                         <CheatEntry>
                           <ID>870</ID>
                           <Description>"KaoriCompostPointer"</Description>
-                          <LastState Value="007FCCD4" RealAddress="007DA72C"/>
+                          <LastState Value="007FCC40" RealAddress="007DA72C"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <Color>C080FF</Color>
@@ -2720,7 +2760,7 @@
                             <CheatEntry>
                               <ID>871</ID>
                               <Description>"KaoriCompost"</Description>
-                              <LastState Value="0" RealAddress="007FCCD4"/>
+                              <LastState Value="0" RealAddress="007FCC40"/>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
                               <Address>+ 00</Address>
@@ -2779,7 +2819,7 @@
                         <CheatEntry>
                           <ID>866</ID>
                           <Description>"EddieCompostPointer"</Description>
-                          <LastState Value="014548C0" RealAddress="007DA738"/>
+                          <LastState Value="015D7CC0" RealAddress="007DA738"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <Color>C080FF</Color>
@@ -2789,7 +2829,7 @@
                             <CheatEntry>
                               <ID>867</ID>
                               <Description>"EddieCompost"</Description>
-                              <LastState Value="8236176" RealAddress="014548C0"/>
+                              <LastState Value="8236176" RealAddress="015D7CC0"/>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
                               <Address>+ 00</Address>
@@ -2800,7 +2840,7 @@
                                 <CheatEntry>
                                   <ID>868</ID>
                                   <Description>"OutfitChoiceTemp"</Description>
-                                  <LastState Value="0" RealAddress="01454A19"/>
+                                  <LastState Value="0" RealAddress="015D7E19"/>
                                   <ShowAsSigned>0</ShowAsSigned>
                                   <VariableType>Byte</VariableType>
                                   <Address>+ 159</Address>
@@ -2808,7 +2848,7 @@
                                 <CheatEntry>
                                   <ID>869</ID>
                                   <Description>"BoardChoiceTemp"</Description>
-                                  <LastState Value="0" RealAddress="01454A18"/>
+                                  <LastState Value="0" RealAddress="015D7E18"/>
                                   <ShowAsSigned>0</ShowAsSigned>
                                   <VariableType>Byte</VariableType>
                                   <Address>+158</Address>
@@ -2820,7 +2860,7 @@
                         <CheatEntry>
                           <ID>876</ID>
                           <Description>"EliseCompostPointer"</Description>
-                          <LastState Value="0148BFC0" RealAddress="007DA73C"/>
+                          <LastState Value="0160F3C0" RealAddress="007DA73C"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <Color>C080FF</Color>
@@ -2830,7 +2870,7 @@
                             <CheatEntry>
                               <ID>877</ID>
                               <Description>"EliseCompost"</Description>
-                              <LastState Value="21544512" RealAddress="0148BFC0"/>
+                              <LastState Value="23130688" RealAddress="0160F3C0"/>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
                               <Address>+ 00</Address>
@@ -2866,7 +2906,7 @@
                         <CheatEntry>
                           <ID>880</ID>
                           <Description>"SeeiahCompostPointer"</Description>
-                          <LastState Value="00C60580" RealAddress="007DA744"/>
+                          <LastState Value="00C63880" RealAddress="007DA744"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <Color>C080FF</Color>
@@ -2876,7 +2916,7 @@
                             <CheatEntry>
                               <ID>881</ID>
                               <Description>"SeeiahCompost"</Description>
-                              <LastState Value="8236352" RealAddress="00C60580"/>
+                              <LastState Value="8236352" RealAddress="00C63880"/>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
                               <Address>+ 00</Address>
@@ -3012,7 +3052,7 @@
             <CheatEntry>
               <ID>516</ID>
               <Description>"AnimSeqB"</Description>
-              <LastState Value="768" RealAddress="00AFBC8C"/>
+              <LastState Value="526" RealAddress="00AFBC8C"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>00AFBC8C</Address>
@@ -3154,7 +3194,7 @@
             <CheatEntry>
               <ID>539</ID>
               <Description>"move this to AnimCateg"</Description>
-              <LastState Value="008DE530" RealAddress="008BFC68"/>
+              <LastState Value="008DE940" RealAddress="008BFC68"/>
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
@@ -3170,7 +3210,7 @@
             <CheatEntry>
               <ID>774</ID>
               <Description>"No description"</Description>
-              <LastState Value="49389" RealAddress="008D0A1C"/>
+              <LastState Value="0" RealAddress="008D0A1C"/>
               <VariableType>2 Bytes</VariableType>
               <Address>008D0A1C</Address>
             </CheatEntry>
@@ -3255,14 +3295,14 @@
             <CheatEntry>
               <ID>968</ID>
               <Description>"Aggression"</Description>
-              <LastState Value="0" RealAddress="00BB0638"/>
+              <LastState Value="49389" RealAddress="00BB0638"/>
               <VariableType>2 Bytes</VariableType>
               <Address>00BB0638</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>969</ID>
               <Description>"Aggression"</Description>
-              <LastState Value="0" RealAddress="00BB063C"/>
+              <LastState Value="49389" RealAddress="00BB063C"/>
               <VariableType>2 Bytes</VariableType>
               <Address>00BB063C</Address>
             </CheatEntry>
@@ -3468,7 +3508,7 @@
                             <CheatEntry>
                               <ID>462</ID>
                               <Description>"Unk"</Description>
-                              <LastState Value="0.1049668863" RealAddress="00AF71A0"/>
+                              <LastState Value="0.5557213426" RealAddress="00AF71A0"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>Float</VariableType>
                               <Address>+0x460</Address>
@@ -3500,7 +3540,7 @@
                         <CheatEntry>
                           <ID>154</ID>
                           <Description>"Timer"</Description>
-                          <LastState Value="60.16357803" RealAddress="007DB2D4"/>
+                          <LastState Value="63.94908142" RealAddress="007DB2D4"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>Float</VariableType>
                           <Address>+0x14</Address>
@@ -3605,7 +3645,7 @@
                 <CheatEntry>
                   <ID>1062</ID>
                   <Description>"BubbleGumPointer ¬"</Description>
-                  <LastState Value="014548C0" RealAddress="007DA738"/>
+                  <LastState Value="015D7CC0" RealAddress="007DA738"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>C080FF</Color>
@@ -3616,7 +3656,7 @@
                       <ID>1063</ID>
                       <Description>"BubbleGum"</Description>
                       <Options moAlwaysHideChildren="1" moManualExpandCollapse="1"/>
-                      <LastState Value="007DAC90" RealAddress="014548C0"/>
+                      <LastState Value="007DAC90" RealAddress="015D7CC0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -3628,7 +3668,7 @@
                         <CheatEntry>
                           <ID>1071</ID>
                           <Description>"CoolMintPointer ¬"</Description>
-                          <LastState Value="01454980" RealAddress="014548D0"/>
+                          <LastState Value="015D7D80" RealAddress="015D7CD0"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <Color>C080FF</Color>
@@ -3639,7 +3679,7 @@
                               <ID>1072</ID>
                               <Description>"CoolMint"</Description>
                               <Options moManualExpandCollapse="1"/>
-                              <LastState Value="007CEEC0" RealAddress="01454980"/>
+                              <LastState Value="007CEEC0" RealAddress="015D7D80"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -3651,7 +3691,7 @@
                                 <CheatEntry>
                                   <ID>1074</ID>
                                   <Description>"ScoreRelated_0x118"</Description>
-                                  <LastState Value="0" RealAddress="01454A98"/>
+                                  <LastState Value="530" RealAddress="015D7E98"/>
                                   <ShowAsSigned>0</ShowAsSigned>
                                   <VariableType>4 Bytes</VariableType>
                                   <Address>+ 0x118</Address>
@@ -3659,7 +3699,7 @@
                                 <CheatEntry>
                                   <ID>1073</ID>
                                   <Description>"ScoreToAddBeforeMult"</Description>
-                                  <LastState Value="0" RealAddress="01454A9C"/>
+                                  <LastState Value="530" RealAddress="015D7E9C"/>
                                   <ShowAsSigned>0</ShowAsSigned>
                                   <VariableType>4 Bytes</VariableType>
                                   <Address>+ 0x11C</Address>
@@ -3675,7 +3715,7 @@
                 <CheatEntry>
                   <ID>486</ID>
                   <Description>"idk"</Description>
-                  <LastState Value="014548C0" RealAddress="007DA738"/>
+                  <LastState Value="015D7CC0" RealAddress="007DA738"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
@@ -3736,7 +3776,7 @@
                         <CheatEntry>
                           <ID>392</ID>
                           <Description>"ReplayTotalFramesA"</Description>
-                          <LastState Value="5540" RealAddress="007DB8EC"/>
+                          <LastState Value="3837" RealAddress="007DB8EC"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>+2C</Address>
@@ -3744,7 +3784,7 @@
                         <CheatEntry>
                           <ID>390</ID>
                           <Description>"ReplayTotalFramesB"</Description>
-                          <LastState Value="5540" RealAddress="007DB8F0"/>
+                          <LastState Value="3837" RealAddress="007DB8F0"/>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
                           <Address>+30</Address>
@@ -3772,7 +3812,7 @@
                 <CheatEntry>
                   <ID>397</ID>
                   <Description>"CarrotCakePointer (Files stuff?)"</Description>
-                  <LastState Value="00C60580" RealAddress="007DA744"/>
+                  <LastState Value="00C63880" RealAddress="007DA744"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>C080FF</Color>
@@ -3782,7 +3822,7 @@
                     <CheatEntry>
                       <ID>811</ID>
                       <Description>"CarrotCake"</Description>
-                      <LastState Value="007DAD40" RealAddress="00C60580"/>
+                      <LastState Value="007DAD40" RealAddress="00C63880"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -3794,7 +3834,7 @@
                         <CheatEntry>
                           <ID>812</ID>
                           <Description>"JumbotronMoviePointer"</Description>
-                          <LastState Value="00C60600" RealAddress="00C60590"/>
+                          <LastState Value="00C63900" RealAddress="00C63890"/>
                           <ShowAsHex>1</ShowAsHex>
                           <ShowAsSigned>0</ShowAsSigned>
                           <Color>C080FF</Color>
@@ -3804,7 +3844,7 @@
                             <CheatEntry>
                               <ID>813</ID>
                               <Description>"JumbotronMovie"</Description>
-                              <LastState Value="DEADC0DE" RealAddress="00C60600"/>
+                              <LastState Value="61746164" RealAddress="00C63900"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -3816,7 +3856,7 @@
                                 <CheatEntry>
                                   <ID>816</ID>
                                   <Description>"SSSMoviePath"</Description>
-                                  <LastState RealAddress="00C60600"/>
+                                  <LastState RealAddress="00C63900"/>
                                   <ShowAsSigned>0</ShowAsSigned>
                                   <VariableType>String</VariableType>
                                   <Length>128</Length>
@@ -3828,7 +3868,7 @@
                                 <CheatEntry>
                                   <ID>814</ID>
                                   <Description>"SSSMovieBufferPointer"</Description>
-                                  <LastState Value="00C60780" RealAddress="00C60694"/>
+                                  <LastState Value="00C63A80" RealAddress="00C63994"/>
                                   <ShowAsHex>1</ShowAsHex>
                                   <ShowAsSigned>0</ShowAsSigned>
                                   <VariableType>4 Bytes</VariableType>
@@ -3837,7 +3877,7 @@
                                     <CheatEntry>
                                       <ID>815</ID>
                                       <Description>"SSSMovieBuffer"</Description>
-                                      <LastState Value="00000003" RealAddress="00C60780"/>
+                                      <LastState Value="00000003" RealAddress="00C63A80"/>
                                       <ShowAsHex>1</ShowAsHex>
                                       <ShowAsSigned>0</ShowAsSigned>
                                       <VariableType>4 Bytes</VariableType>
@@ -3875,7 +3915,7 @@
                 <CheatEntry>
                   <ID>797</ID>
                   <Description>"SkyColor.r"</Description>
-                  <LastState Value="0.02745098062" RealAddress="007DA75C"/>
+                  <LastState Value="0.2039215714" RealAddress="007DA75C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0000FF</Color>
                   <VariableType>Float</VariableType>
@@ -3884,7 +3924,7 @@
                 <CheatEntry>
                   <ID>798</ID>
                   <Description>"SkyColor.g"</Description>
-                  <LastState Value="0" RealAddress="007DA760"/>
+                  <LastState Value="0.4509803951" RealAddress="007DA760"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>00FF00</Color>
                   <VariableType>Float</VariableType>
@@ -3893,7 +3933,7 @@
                 <CheatEntry>
                   <ID>799</ID>
                   <Description>"SkyColor.b"</Description>
-                  <LastState Value="0.1490196139" RealAddress="007DA764"/>
+                  <LastState Value="0.7647058964" RealAddress="007DA764"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>FF8000</Color>
                   <VariableType>Float</VariableType>
@@ -3902,7 +3942,7 @@
                 <CheatEntry>
                   <ID>151</ID>
                   <Description>"SnowfallToggle"</Description>
-                  <LastState Value="1" RealAddress="007DA774"/>
+                  <LastState Value="0" RealAddress="007DA774"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>+0x74</Address>
@@ -3910,7 +3950,7 @@
                 <CheatEntry>
                   <ID>213</ID>
                   <Description>"SnowfallIntensity"</Description>
-                  <LastState Value="0.06973575056" RealAddress="007DA778"/>
+                  <LastState Value="0.1369892955" RealAddress="007DA778"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>Float</VariableType>
                   <Address>+78</Address>
@@ -3918,7 +3958,7 @@
                 <CheatEntry>
                   <ID>891</ID>
                   <Description>"FaceWashPointer ¬"</Description>
-                  <LastState Value="00C81DC0" RealAddress="007DA780"/>
+                  <LastState Value="00C850C0" RealAddress="007DA780"/>
                   <ShowAsHex>1</ShowAsHex>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>C080FF</Color>
@@ -3928,7 +3968,7 @@
                     <CheatEntry>
                       <ID>892</ID>
                       <Description>"FaceWash"</Description>
-                      <LastState Value="00C60580" RealAddress="00C81DC0"/>
+                      <LastState Value="00C63880" RealAddress="00C850C0"/>
                       <ShowAsHex>1</ShowAsHex>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -4054,7 +4094,7 @@
                             <CheatEntry>
                               <ID>403</ID>
                               <Description>"Pos.x"</Description>
-                              <LastState Value="76792.44531" RealAddress="007FEB5C"/>
+                              <LastState Value="18549.67188" RealAddress="007FEB5C"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <Color>5151FF</Color>
                               <VariableType>Float</VariableType>
@@ -4063,7 +4103,7 @@
                             <CheatEntry>
                               <ID>494</ID>
                               <Description>"Pos.y"</Description>
-                              <LastState Value="-22939.46484" RealAddress="007FEB60"/>
+                              <LastState Value="75799.5" RealAddress="007FEB60"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <Color>62FFB0</Color>
                               <VariableType>Float</VariableType>
@@ -4072,7 +4112,7 @@
                             <CheatEntry>
                               <ID>495</ID>
                               <Description>"Pos.z"</Description>
-                              <LastState Value="-68081.03125" RealAddress="007FEB64"/>
+                              <LastState Value="-65729.14062" RealAddress="007FEB64"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <Color>FFA850</Color>
                               <VariableType>Float</VariableType>
@@ -4091,7 +4131,7 @@
                             <CheatEntry>
                               <ID>533</ID>
                               <Description>"Rot.x"</Description>
-                              <LastState Value="-0.6225168109" RealAddress="007FEB6C"/>
+                              <LastState Value="-1.926012635" RealAddress="007FEB6C"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <Color>5151FF</Color>
                               <VariableType>Float</VariableType>
@@ -4100,7 +4140,7 @@
                             <CheatEntry>
                               <ID>534</ID>
                               <Description>"Rot.y"</Description>
-                              <LastState Value="0.7891273499" RealAddress="007FEB70"/>
+                              <LastState Value="-0.008850848302" RealAddress="007FEB70"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <Color>62FFB0</Color>
                               <VariableType>Float</VariableType>
@@ -4109,7 +4149,7 @@
                             <CheatEntry>
                               <ID>535</ID>
                               <Description>"Rot.z"</Description>
-                              <LastState Value="-0.5500116348" RealAddress="007FEB74"/>
+                              <LastState Value="0.2592861652" RealAddress="007FEB74"/>
                               <ShowAsSigned>0</ShowAsSigned>
                               <Color>FFA850</Color>
                               <VariableType>Float</VariableType>
@@ -4132,7 +4172,7 @@
                     <CheatEntry>
                       <ID>225</ID>
                       <Description>"SkyPos.x"</Description>
-                      <LastState Value="76792.44531" RealAddress="007DA7B0"/>
+                      <LastState Value="18549.67188" RealAddress="007DA7B0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>5151FF</Color>
                       <VariableType>Float</VariableType>
@@ -4141,7 +4181,7 @@
                     <CheatEntry>
                       <ID>781</ID>
                       <Description>"SkyPos.y"</Description>
-                      <LastState Value="-22939.46484" RealAddress="007DA7B4"/>
+                      <LastState Value="75799.5" RealAddress="007DA7B4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>62FFB0</Color>
                       <VariableType>Float</VariableType>
@@ -4150,7 +4190,7 @@
                     <CheatEntry>
                       <ID>782</ID>
                       <Description>"SkyPos.z"</Description>
-                      <LastState Value="-68081.03125" RealAddress="007DA7B8"/>
+                      <LastState Value="-65729.14062" RealAddress="007DA7B8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>FFA850</Color>
                       <VariableType>Float</VariableType>
@@ -4159,7 +4199,7 @@
                     <CheatEntry>
                       <ID>780</ID>
                       <Description>"CamMatrix4x4"</Description>
-                      <LastState Value="-0.5716519356" RealAddress="007DA7C0"/>
+                      <LastState Value="0.9994181991" RealAddress="007DA7C0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>408000</Color>
                       <VariableType>Float</VariableType>
