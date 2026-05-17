@@ -6,15 +6,29 @@ Modified by Linkz64
 
 -- Adjust these if needed
 local eemem = "[eemem]"
+local legacy = "20000000"
 local eemem_size = "0x08000000"
 local auto_set_eemem_on_attach = false
 local pcsx2_attach_name_contains = "pcsx2"
 
 
+--[[
 
-function fileExists(filename)
-  local f=io.open(filename, "r")
-  if (f~=nil) then
+TODO
+
+- make a settings popup menu
+  ----- EEMEM Settings -----
+  [ ] Auto set EEMEM on attach
+  [Attach name contains          ]
+
+- make the popup menus big enough for 4k screens or try the scaling options
+  to fix the cropping.
+
+]]
+
+local function fileExists(filename)
+  local f = io.open(filename, "r")
+  if (f ~= nil) then
     f:close()
     return true
   else
@@ -178,13 +192,13 @@ autoAssemble([[
 ]], true)
 
 
-function setEmuPointer()
+local function setEmuPointer()
   setAPIPointer(1, getAddress("EmuRPM", true)) --make RPM calls call emurpm
   setAPIPointer(2, getAddress("EmuWPM", true)) --make WPM calls call emuwpm
   setAPIPointer(3, getAddress("EmuVQE", true)) --make VQE calls call EmuVQE
 end
 
-function EmuSetAddress(sender) --called by the (Re)Set address button
+local function EmuSetAddress(sender) --called by the (Re)Set address button
   --first undo the api pointer change since I need to read the actual memory
 
   onAPIPointerChange(nil) --shouldn't be needed, but in case this ever gets changed so setAPIPointer calls it as well
@@ -204,7 +218,7 @@ function EmuSetAddress(sender) --called by the (Re)Set address button
 end
 
 
-function EmuAutoSetAddress(a, b)
+local function EmuAutoSetAddress(a, b)
   --first undo the api pointer change since I need to read the actual memory
 
   onAPIPointerChange(nil) --shouldn't be needed, but in case this ever gets changed so setAPIPointer calls it as well
@@ -232,19 +246,26 @@ mi.Caption="EmuRPM"
 mf.Menu.Items.insert(mf.Menu.Items.Count-1, mi) --add it before the last entry (help)
 
 local mi2=createMenuItem(mf.Menu)
-mi2.Caption="Auto Set EEMEM"
+mi2.Caption="Auto set EEMEM"
 mi2.OnClick=function()
   EmuAutoSetAddress(eemem, eemem_size)
 end
 
-mi3=createMenuItem(mf.Menu)
-mi3.Caption="Set Base Address"
+local mi3=createMenuItem(mf.Menu)
+mi3.Caption="Auto set EEMEM Legacy"
 mi3.OnClick=function()
+  EmuAutoSetAddress(legacy, eemem_size)
+end
+
+local mi4=createMenuItem(mf.Menu)
+mi4.Caption="Set custom base address"
+mi4.OnClick=function()
   frmEmuMemory.showModal()
 end
 
 mi.add(mi2)
 mi.add(mi3)
+mi.add(mi4)
 
 
 -- Auto set eemem on attach
